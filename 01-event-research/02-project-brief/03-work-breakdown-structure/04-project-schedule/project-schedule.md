@@ -1,119 +1,163 @@
 # Project Schedule – Warehouse Worship: The Gathering 2026
 
-## 1. Schedule Overview
+## 1. Purpose
 
-This project schedule presents an illustrative 24-week delivery programme for a large-scale worship event. The dates and durations are planning assumptions developed for this portfolio case study and do not represent the actual internal schedule used by Warehouse Worship.
+This project schedule provides an illustrative 24-week framework for planning and delivering a large-scale worship event.
 
-The schedule covers project initiation, venue planning, programme development, production, marketing, ticketing, staffing, risk management, event delivery and post-event evaluation.
+The schedule demonstrates how key project activities could be sequenced, monitored and coordinated from project initiation through to post-event evaluation.
 
----
-
-## 2. Project Timeline
-
-| Phase | Activity | Duration | Indicative Timing |
-|---|---|---:|---|
-| 1 | Project initiation and objectives | 1 week | Week 1 |
-| 2 | Initial feasibility and requirements | 2 weeks | Weeks 1–2 |
-| 3 | Venue confirmation and site planning | 4 weeks | Weeks 2–5 |
-| 4 | Programme and artist planning | 8 weeks | Weeks 3–10 |
-| 5 | Production and technical planning | 10 weeks | Weeks 5–14 |
-| 6 | Marketing and communications | 18 weeks | Weeks 6–23 |
-| 7 | Ticketing and attendee planning | 16 weeks | Weeks 7–22 |
-| 8 | Staffing and volunteer planning | 10 weeks | Weeks 11–20 |
-| 9 | Security, safety and risk planning | 12 weeks | Weeks 9–20 |
-| 10 | Transport and logistics planning | 8 weeks | Weeks 13–20 |
-| 11 | Final event preparation | 3 weeks | Weeks 21–23 |
-| 12 | Event delivery | 1 week | Week 24 |
-| 13 | Post-event evaluation | 2 weeks | Weeks 24–25 |
+The dates are proposed planning assumptions developed for this portfolio case study and do not represent Warehouse Worship's actual internal project schedule.
 
 ---
 
-## 3. Key Milestones
+## 2. Project Lifecycle
+
+The proposed project lifecycle is:
+
+**Initiation → Planning → Development → Preparation → Event Delivery → Evaluation**
+
+The different workstreams overlap because large-scale events require several activities to progress simultaneously.
+
+---
+
+## 3. Schedule Overview
+
+| Phase | Main Activities | Indicative Period |
+|---|---|---|
+| Project Initiation | Scope, objectives and initial planning | Weeks 1–2 |
+| Project Planning | WBS, stakeholders, risks and resources | Weeks 2–5 |
+| Venue & Programme | Venue, artists and programme planning | Weeks 2–10 |
+| Production | Technical and production planning | Weeks 5–18 |
+| Marketing | Campaign development and promotion | Weeks 7–24 |
+| Ticketing | Ticketing and attendee management | Weeks 8–23 |
+| Staffing & Safety | Staffing, volunteers, security and risk | Weeks 11–22 |
+| Logistics | Transport and event logistics | Weeks 14–21 |
+| Final Preparation | Final checks and event readiness | Weeks 23–24 |
+| Event Delivery | Event day | 8 August 2026 |
+| Evaluation | KPI review and lessons learned | August 2026 |
+
+---
+
+## 4. Gantt Chart
+
+The following Gantt chart provides an illustrative view of the proposed project lifecycle.
+
+```mermaid
+gantt
+    title Warehouse Worship - The Gathering 2026
+    dateFormat YYYY-MM-DD
+    axisFormat %b
+
+    section Project Management
+    Project initiation :a1, 2026-02-02, 7d
+    Project planning :a2, 2026-02-09, 21d
+
+    section Venue and Programme
+    Venue planning :b1, 2026-02-09, 28d
+    Programme and artist planning :b2, 2026-02-16, 56d
+
+    section Production
+    Production planning :c1, 2026-03-02, 70d
+    Technical preparation :c2, 2026-05-11, 84d
+
+    section Marketing
+    Marketing campaign :d1, 2026-03-16, 126d
+
+    section Ticketing
+    Ticketing and attendee planning :e1, 2026-03-23, 112d
+
+    section Staffing and Safety
+    Staffing and volunteer planning :f1, 2026-04-20, 70d
+    Security and risk planning :f2, 2026-04-06, 84d
+
+    section Logistics
+    Transport and logistics planning :g1, 2026-05-04, 56d
+
+    section Final Preparation
+    Final event preparation :h1, 2026-07-20, 21d
+
+    section Event
+    Event delivery :i1, 2026-08-08, 1d
+
+    section Evaluation
+    Post-event evaluation :j1, 2026-08-08, 14d
+```
+
+> **Schedule note:** All dates shown in the Gantt chart are illustrative planning assumptions created for this portfolio case study. They are not claimed to be Warehouse Worship's actual internal deadlines.
+
+---
+
+## 5. Key Milestones
 
 | Milestone | Indicative Timing |
 |---|---|
-| Project objectives agreed | Week 1 |
-| Venue and core requirements established | Week 5 |
-| Initial programme confirmed | Week 10 |
-| Production requirements confirmed | Week 14 |
-| Marketing campaign fully active | Week 15 |
-| Staffing requirements confirmed | Week 20 |
-| Final operational review | Week 23 |
-| Event day | Week 24 |
-| Post-event review completed | Week 25 |
+| Project initiated | February 2026 |
+| Initial project planning completed | February 2026 |
+| Venue planning established | March 2026 |
+| Programme planning established | March 2026 |
+| Production planning established | March 2026 |
+| Marketing campaign active | March 2026 |
+| Ticketing and attendee planning established | March 2026 |
+| Staffing and safety planning | April 2026 |
+| Logistics planning | May 2026 |
+| Final event preparation | July–August 2026 |
+| Event delivery | 8 August 2026 |
+| Post-event evaluation | August 2026 |
 
 ---
 
-## 4. Dependencies
+## 6. Key Dependencies
 
-Several activities are dependent on the completion of earlier project tasks.
+Several activities have important dependencies.
 
-- Venue planning must be sufficiently developed before detailed production planning can be finalised.
-- Programme and artist requirements inform stage, audio, lighting and video requirements.
-- Marketing activity depends on confirmed event information, programme details and ticketing arrangements.
-- Staffing requirements depend on the agreed operational model and expected attendance.
-- Security and crowd-management planning depends on the venue layout, audience profile and expected attendance.
-- Transport planning should align with event timings and attendee requirements.
-- Final event preparation depends on the completion of operational, production, staffing and safety planning.
+### Venue → Production
 
----
+Production planning depends on confirmed venue requirements, available space and technical constraints.
 
-## 5. Critical Delivery Period
+### Programme → Production
 
-The final three weeks represent the main readiness period. During this stage, the project team would focus on:
+The programme affects:
 
-- Confirming suppliers and outstanding deliverables
-- Finalising the event-day operational plan
-- Confirming staff and volunteer rotas
-- Completing security and crowd-management planning
-- Reviewing emergency and evacuation procedures
-- Finalising signage and attendee communications
-- Confirming transport arrangements
-- Conducting final production checks
-- Completing stakeholder briefings
-- Reviewing outstanding risks and contingency arrangements
+- Stage requirements
+- Audio requirements
+- Lighting
+- Screen content
+- Artist changeovers
+- Technical rehearsals
 
----
+### Marketing → Ticketing
 
-## 6. Event-Day Schedule
+Marketing activity supports awareness and ticket conversion.
 
-The public event timings used in this case study are based on available event information.
+### Staffing → Operations
 
-| Activity | Time |
-|---|---:|
-| Venue access and operational preparation | Proposed |
-| Final staff and supplier briefing | Proposed |
-| Security and entrance preparation | Proposed |
-| Doors open | 16:30 |
-| Event begins | 17:00 |
-| Event closes | 23:00 |
-| Venue clear-down | Proposed |
+Staff and volunteer planning must be sufficiently developed before event-day operations can be finalised.
 
-The confirmed public timings were doors at 16:30, with the event scheduled from 17:00 to 23:00. Other operational timings are proposed planning assumptions rather than confirmed organiser timings.
+### Risk Management → Event Delivery
+
+Risk controls should be reviewed before final operational readiness is confirmed.
+
+### Logistics → Event Day
+
+Transport and logistics arrangements should be confirmed before the event.
 
 ---
 
-## 7. Gantt-Style View
+## 7. Critical Path Considerations
 
-| Workstream | W1–4 | W5–8 | W9–12 | W13–16 | W17–20 | W21–24 |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Project Management | ███ | ███ | ███ | ███ | ███ | ███ |
-| Venue & Site Planning | ███ | ███ |  |  |  | █ |
-| Programme & Artists |  | ███ | ███ | █ |  | █ |
-| Production & Technical |  | ███ | ███ | ███ | ███ | ███ |
-| Marketing |  | ███ | ███ | ███ | ███ | ███ |
-| Ticketing & Attendee Planning |  | ███ | ███ | ███ | ███ | ███ |
-| Staffing & Volunteers |  |  | █ | ███ | ███ | ███ |
-| Security & Risk |  |  | ███ | ███ | ███ | ███ |
-| Transport & Logistics |  |  |  | ███ | ███ | ███ |
-| Final Preparation |  |  |  |  |  | ███ |
-| Event Delivery |  |  |  |  |  | ◆ |
-| Post-Event Evaluation |  |  |  |  |  | █ |
+Potential activities affecting the critical delivery path include:
 
-**Legend:**  
-`███` = Active planning/delivery period  
-`◆` = Major milestone/event  
-`█` = Limited activity or finalisation
+1. Venue readiness
+2. Production preparation
+3. Programme confirmation
+4. Technical testing
+5. Staffing and security preparation
+6. Final safety checks
+7. Event-day readiness
+
+Delays in these areas could have a direct effect on event readiness.
+
+The actual critical path would require the organiser's detailed activity durations, dependencies and resource constraints.
 
 ---
 
@@ -123,21 +167,37 @@ The schedule would be monitored through regular project reviews, with particular
 
 Potential schedule risks include:
 
-- Late supplier confirmation
-- Artist or programme changes
-- Production delays
-- Venue access restrictions
-- Delayed marketing materials
+- Supplier delays
+- Programme changes
+- Venue constraints
+- Technical delays
 - Staffing shortages
 - Transport disruption
-- Technical issues during final preparation
+- Late approvals
 
-Where delays occur, the project manager would assess their impact on dependent activities and introduce mitigation or contingency actions where required.
+Where a delay is identified, the project team should assess:
+
+**Impact → Dependencies → Resources → Corrective Action → Revised Schedule**
 
 ---
 
-## 9. Schedule Assumption
+## 9. Schedule Controls
 
-This schedule is an **illustrative project-management model** developed for portfolio purposes. It is not presented as the actual internal project schedule of Warehouse Worship.
+Potential schedule controls include:
 
-The purpose is to demonstrate how a large-scale event could be structured, sequenced and monitored using project management principles.
+- Weekly project reviews during the main planning period
+- Increased review frequency as the event approaches
+- Milestone tracking
+- Dependency monitoring
+- Supplier progress checks
+- Issue and action logs
+- Change-control procedures
+- Escalation of critical delays
+
+---
+
+## 10. Schedule Assumption
+
+This schedule is an **illustrative project-management model** created for portfolio purposes.
+
+It demonstrates how I would structure and monitor a large-scale event project. It should not be interpreted as the actual project schedule, internal deadlines or planning documentation of Warehouse Worship.
