@@ -2,202 +2,657 @@
 
 ## 1. Purpose
 
-This KPI framework provides a proposed method for measuring the operational and project performance of a large-scale worship event.
+This KPI and Performance Dashboard provides an illustrative framework for measuring the success of a large-scale worship event.
 
-The measures and targets are illustrative and have been developed for this portfolio case study. They are not verified performance results from the actual event.
+The dashboard focuses on project delivery, operations, attendee experience, safety, programme performance, financial control and stakeholder outcomes.
 
----
-
-## 2. KPI Dashboard
-
-| KPI | Measurement | Proposed Target | Purpose |
-|---|---|---:|---|
-| Attendance | Actual attendance vs forecast | ≥95% of forecast | Measure audience delivery |
-| Average entry wait | Average queue / entry time | <30 minutes | Assess arrival efficiency |
-| Ticket scanning success | Successful scans / attempted scans | ≥99% | Assess ticketing efficiency |
-| Critical safety incidents | Number recorded | 0 | Monitor major safety performance |
-| Blocked emergency exits | Number identified | 0 | Protect emergency access |
-| Programme delivery | Programme items delivered on schedule | ≥95% | Monitor schedule performance |
-| Major technical failures | Number of major failures | 0 | Assess production reliability |
-| Staff briefing completion | Staff briefed / total staff | 100% | Confirm operational readiness |
-| Attendee satisfaction | Positive survey responses | ≥85% | Measure attendee experience |
-| Budget variance | Actual vs approved budget | Within ±5% | Monitor financial performance |
-| Stakeholder satisfaction | Positive stakeholder feedback | ≥85% | Assess stakeholder management |
+All targets in this document are **proposed portfolio targets** and are not claimed to represent actual Warehouse Worship performance data.
 
 ---
 
-## 3. KPI Categories
+## 2. KPI Framework
 
-### Attendance
+Event performance can be assessed across seven key areas:
 
-Attendance should be compared against the approved forecast.
-
-**Formula:**
-
-`Attendance achievement = Actual attendance ÷ Forecast attendance × 100`
-
-This provides a simple measure of whether the event achieved its planned audience level.
-
----
-
-### Entry Experience
-
-Entry performance should consider:
-
-- Queue length
-- Average waiting time
-- Ticket scanning efficiency
-- Security processing
-- Attendee feedback
-
-This KPI is particularly relevant because first-hand attendee observation identified a lengthy arrival queue.
+1. Attendance
+2. Attendee Experience
+3. Operations
+4. Safety
+5. Programme & Production
+6. Financial Management
+7. Stakeholder Performance
 
 ---
 
-### Safety
+## 3. KPI Dashboard
 
-Safety performance should monitor:
+| Performance Area | KPI | Proposed Target | Actual Result | Status |
+|---|---|---:|---|---|
+| Attendance | Attendance against forecast | ≥95% | Not available | Not measured |
+| Attendee Experience | Attendee satisfaction | ≥85% | Not available | Not measured |
+| Operations | Average entry wait | <30 mins | Not formally measured | Not measured |
+| Ticketing | Successful ticket scans | ≥99% | Not available | Not measured |
+| Safety | Critical safety incidents | 0 | Not available | Not measured |
+| Safety | Blocked emergency exits | 0 | Not available | Not measured |
+| Programme | Programme delivered on schedule | ≥95% | Not available | Not measured |
+| Production | Major technical failures | 0 | Not available | Not measured |
+| Staffing | Staff briefing completion | 100% | Not available | Not measured |
+| Finance | Budget variance | Within ±5% | Not available | Not measured |
+| Stakeholders | Stakeholder satisfaction | ≥85% | Not available | Not measured |
 
-- Critical incidents
+> **Important:** No actual event performance figures are being invented. Where verified data was unavailable, the dashboard records the result as "Not available" or "Not formally measured".
+
+---
+
+## 4. KPI Visual Framework
+
+The following framework shows how event inputs can be connected to outputs and outcomes.
+
+```mermaid
+flowchart LR
+    A["PROJECT INPUTS<br/>Budget<br/>Staff<br/>Suppliers<br/>Venue"] --> B["EVENT DELIVERY<br/>Operations<br/>Production<br/>Programme"]
+    B --> C["OUTPUTS<br/>Attendance<br/>Programme Delivery<br/>Operational Performance"]
+    C --> D["OUTCOMES<br/>Attendee Experience<br/>Safety<br/>Stakeholder Satisfaction"]
+    D --> E["POST-EVENT REVIEW<br/>KPIs<br/>Feedback<br/>Lessons Learned"]
+```
+
+> **Framework note:** This is an illustrative performance-management model created for the portfolio case study.
+
+---
+
+## 5. Attendance KPI
+
+### KPI
+
+**Attendance against forecast**
+
+### Proposed Target
+
+**≥95% of forecast attendance**
+
+### Measurement
+
+Attendance can be calculated as:
+
+**Actual Attendance ÷ Forecast Attendance × 100**
+
+### Data Sources
+
+Potential sources include:
+
+- Ticketing system
+- Ticket scans
+- Attendance records
+- Venue capacity information
+
+### Current Case-Study Status
+
+Actual verified attendance was not available.
+
+Therefore, no actual attendance percentage is claimed.
+
+---
+
+## 6. Attendee Experience KPI
+
+### KPI
+
+**Attendee satisfaction**
+
+### Proposed Target
+
+**≥85% satisfaction**
+
+### Measurement
+
+A post-event survey could measure:
+
+- Overall satisfaction
+- Ease of entry
+- Venue experience
+- Programme experience
+- Staff helpfulness
+- Safety perception
+- Facilities
+- Likelihood of attending again
+
+### Potential Data Sources
+
+- Post-event survey
+- Online feedback
+- Social media feedback
+- Direct attendee comments
+
+### Case-Study Observation
+
+The user's first-hand observation identified:
+
+- Significant entry congestion
+- A lengthy arrival process
+- Clear signage
+- Staff communication
+- Available toilets and merchandise
+- A generally organised internal environment
+
+These observations are qualitative and should not be converted into a numerical satisfaction score.
+
+---
+
+## 7. Entry Operations KPI
+
+### KPI
+
+**Average attendee entry waiting time**
+
+### Proposed Target
+
+**Less than 30 minutes**
+
+### Measurement
+
+Entry waiting time could be calculated from:
+
+**Queue Entry Time → Venue Entry Time**
+
+The average could then be calculated across a representative sample of attendees.
+
+### Case-Study Observation
+
+The user experienced approximately one hour or slightly longer for the overall entry process.
+
+This is a **single first-hand observation**, not a statistically representative measurement of all attendees.
+
+---
+
+## 8. Ticketing KPI
+
+### KPI
+
+**Successful ticket scans**
+
+### Proposed Target
+
+**≥99%**
+
+### Measurement
+
+**Successful Ticket Scans ÷ Total Ticket Scan Attempts × 100**
+
+### Potential Data Sources
+
+- Ticketing platform
+- Scanning system
+- Entry logs
+
+### Case-Study Status
+
+Actual ticket-scan performance data was not available.
+
+---
+
+## 9. Safety KPI
+
+### KPI
+
+**Critical safety incidents**
+
+### Proposed Target
+
+**0**
+
+Other safety indicators could include:
+
 - Medical incidents
-- Crowd-management issues
-- Emergency access
-- Evacuation readiness
+- Security incidents
+- Crowd-management interventions
+- Emergency evacuations
+- Blocked exits
 
-A target of zero critical safety incidents is proposed as a planning objective.
+### Measurement
 
----
+The number of incidents classified as critical could be recorded through event-day incident reports.
 
-### Programme Performance
+### Case-Study Status
 
-Programme performance can be measured by comparing planned and actual delivery.
+No verified internal incident data was available for this case study.
 
-Potential measures include:
-
-- Programme start-time adherence
-- Delays between programme elements
-- Number of significant programme changes
-- Overall schedule adherence
+Therefore, no numerical safety-performance result is claimed.
 
 ---
 
-### Technical Performance
+## 10. Programme KPI
 
-Production KPIs could include:
+### KPI
 
-- Major technical failures
-- Audio interruptions
-- Screen failures
-- Lighting failures
-- Recording issues
+**Programme delivered on schedule**
 
-The objective would be to minimise disruption to the attendee and performer experience.
+### Proposed Target
+
+**≥95% of programme delivered within agreed timings**
+
+### Measurement
+
+**Programme Items Delivered on Time ÷ Total Programme Items × 100**
+
+### Potential Data Sources
+
+- Run of Show
+- Stage-management records
+- Production logs
+- Event control records
+
+Published coverage provides information about the programme structure but does not provide a complete verified internal timing record. :contentReference[oaicite:0]{index=0}
+
+Therefore, actual programme performance cannot be calculated from the available evidence.
 
 ---
 
-### Financial Performance
+## 11. Production KPI
 
-Budget performance should compare actual expenditure with the approved baseline.
+### KPI
 
-**Formula:**
+**Major technical failures**
 
-`Budget variance = (Actual cost − Budgeted cost) ÷ Budgeted cost × 100`
+### Proposed Target
 
-Positive variance indicates expenditure above budget, while negative variance indicates expenditure below budget.
+**0**
+
+Potential technical systems include:
+
+- Audio
+- Lighting
+- Screens
+- Recording
+- Stage systems
+
+### Measurement
+
+Record the number of incidents classified as major technical failures.
+
+### Case-Study Status
+
+No verified internal production incident data was available.
+
+Therefore, no actual technical-performance result is claimed.
 
 ---
 
-## 4. Data Collection
+## 12. Staffing KPI
 
-Potential data sources include:
+### KPI
 
-| Data Source | KPI Supported |
+**Staff briefing completion**
+
+### Proposed Target
+
+**100%**
+
+### Measurement
+
+**Staff Briefed ÷ Staff Required × 100**
+
+### Potential Data Sources
+
+- Staff attendance records
+- Briefing sign-in sheets
+- Volunteer records
+
+### Case-Study Status
+
+Actual staffing records were not available for this case study.
+
+---
+
+## 13. Financial KPI
+
+### KPI
+
+**Budget variance**
+
+### Proposed Target
+
+**Within ±5%**
+
+### Measurement
+
+**Budget Variance = Actual Cost − Planned Cost**
+
+Percentage variance:
+
+**Variance % = (Actual Cost − Planned Cost) ÷ Planned Cost × 100**
+
+### Case-Study Status
+
+The project budget created within this portfolio is illustrative.
+
+No actual Warehouse Worship expenditure figures are available.
+
+Therefore, an actual budget variance cannot be calculated.
+
+---
+
+## 14. Stakeholder KPI
+
+### KPI
+
+**Stakeholder satisfaction**
+
+### Proposed Target
+
+**≥85%**
+
+### Potential Stakeholders
+
+- Event leadership
+- Venue
+- Production
+- Security
+- Suppliers
+- Artists
+- Volunteers
+- Partners
+
+### Measurement
+
+Stakeholder satisfaction could be measured using a post-event survey.
+
+Example areas could include:
+
+- Communication
+- Coordination
+- Supplier performance
+- Operational delivery
+- Issue resolution
+- Overall project experience
+
+Actual stakeholder survey results were not available.
+
+---
+
+## 15. KPI Data Collection
+
+A structured data-collection process could include:
+
+**Data Collection**
+
+↓
+
+**Data Validation**
+
+↓
+
+**KPI Calculation**
+
+↓
+
+**Performance Review**
+
+↓
+
+**Issue Identification**
+
+↓
+
+**Corrective Action**
+
+↓
+
+**Lessons Learned**
+
+---
+
+## 16. KPI Reporting Frequency
+
+| KPI Category | Review Frequency |
 |---|---|
-| Ticketing system | Attendance and ticket scans |
-| Queue observations | Entry waiting time |
-| Security reports | Safety and prohibited-item incidents |
-| Medical reports | Medical incidents |
-| Production reports | Technical performance |
-| Event schedule | Programme performance |
-| Financial records | Budget variance |
-| Attendee survey | Satisfaction |
-| Staff feedback | Operational performance |
-| Stakeholder feedback | Stakeholder satisfaction |
+| Attendance | Event day / post-event |
+| Entry Operations | Event day |
+| Safety | Event day / post-event |
+| Programme | Event day |
+| Production | Event day |
+| Staffing | Pre-event / event day |
+| Finance | Weekly / post-event |
+| Stakeholder Satisfaction | Post-event |
+| Attendee Satisfaction | Post-event |
 
 ---
 
-## 5. Event-Day Data Collection
+## 17. Traffic-Light Reporting
 
-Where practical, data should be recorded throughout the event rather than relying entirely on post-event estimates.
+A future project dashboard could use:
 
-Examples include:
+| Status | Meaning |
+|---|---|
+| 🟢 Green | Target achieved / on track |
+| 🟡 Amber | Potential issue requiring monitoring |
+| 🔴 Red | Target not achieved / corrective action required |
+| ⚪ Not Measured | Verified data unavailable |
 
-- Recording queue conditions at regular intervals
-- Logging incidents as they occur
-- Recording technical failures
-- Monitoring programme timings
-- Tracking operational issues
-- Collecting attendee feedback
-
-A standard incident and performance log could be used to maintain consistency.
+For this portfolio case study, unavailable actual performance data is deliberately shown as **Not Measured** rather than assigning an unsupported status.
 
 ---
 
-## 6. Post-Event Evaluation
+## 18. Performance Review
 
-Following the event, the project team should compare actual performance against the proposed targets.
+The project team should review KPI performance to identify:
 
-A post-event review should identify:
+- Areas performing as expected
+- Areas requiring additional resources
+- Operational bottlenecks
+- Safety concerns
+- Budget pressures
+- Stakeholder concerns
+- Opportunities for improvement
 
-1. What met the target?
-2. What exceeded the target?
-3. What fell below the target?
-4. Why did the variance occur?
-5. What corrective actions are required?
-6. What should be repeated at future events?
-7. What should be changed?
-
----
-
-## 7. Sample KPI Review Table
-
-| KPI | Target | Actual | Variance | Status | Action |
-|---|---:|---:|---:|---|---|
-| Attendance | ≥95% forecast | To be measured | — | Pending | Review after event |
-| Average entry wait | <30 mins | To be measured | — | Pending | Analyse queue data |
-| Ticket scanning | ≥99% | To be measured | — | Pending | Review ticketing report |
-| Critical safety incidents | 0 | To be measured | — | Pending | Review incident log |
-| Programme on schedule | ≥95% | To be measured | — | Pending | Compare planned vs actual |
-| Major technical failures | 0 | To be measured | — | Pending | Review production report |
-| Attendee satisfaction | ≥85% | To be measured | — | Pending | Analyse survey results |
-| Budget variance | ±5% | To be measured | — | Pending | Complete financial reconciliation |
+KPI results should be considered alongside qualitative feedback.
 
 ---
 
-## 8. First-Hand Observation vs KPI Evidence
+## 19. Corrective Action
 
-The attendee observations used in this case study provide qualitative evidence of the event experience, but they do not constitute a statistically representative performance dataset.
+Where a KPI falls below its agreed target:
 
-For example, observing a long entry queue provides useful evidence that queue management should be considered in the project analysis, but it cannot establish the average waiting time for all attendees.
+**Target Missed**
 
-Formal KPI assessment would require appropriate event-wide data.
+↓
+
+**Root Cause Analysis**
+
+↓
+
+**Corrective Action Identified**
+
+↓
+
+**Action Owner Assigned**
+
+↓
+
+**Action Implemented**
+
+↓
+
+**Performance Rechecked**
+
+This creates a continuous improvement cycle.
 
 ---
 
-## 9. Performance Improvement
+## 20. Post-Event Evaluation
 
-KPI results should feed directly into the lessons-learned process.
+A post-event evaluation should combine quantitative and qualitative evidence.
+
+### Quantitative Evidence
+
+Potential quantitative measures include:
+
+- Attendance
+- Ticket scans
+- Entry times
+- Budget performance
+- Programme timings
+- Incident records
+- Survey results
+
+### Qualitative Evidence
+
+Potential qualitative evidence includes:
+
+- Attendee comments
+- Staff feedback
+- Supplier feedback
+- Stakeholder feedback
+- Operational observations
+
+Combining both forms of evidence provides a more complete evaluation.
+
+---
+
+## 21. Case-Study Evidence Classification
+
+| Evidence Type | Example |
+|---|---|
+| Published / Verified | Event date and public event timings |
+| First-Hand Observation | User's arrival and entry experience |
+| Illustrative | Proposed KPI targets |
+| Not Available | Internal attendance, financial and incident data |
+
+This distinction prevents illustrative portfolio assumptions from being presented as actual event performance.
+
+---
+
+## 22. Key Findings Available from the Case Study
+
+Based on the available evidence, the following observations can be documented.
+
+### Entry
+
+The user's first-hand experience involved a significant queue and a lengthy entry process.
+
+### Signage
+
+The user observed that signage was generally easy to follow.
+
+### Communication
+
+The user observed clear announcements and staff communication.
+
+### Facilities
+
+The user observed access to toilets, merchandise and exit routes.
+
+### Crowd Management
+
+The user perceived the internal crowd environment as relatively controlled, with staff directing attendees.
+
+These are first-hand observations rather than quantitative performance measurements.
+
+---
+
+## 23. Performance Improvement Opportunities
+
+The available observations suggest several areas that could be examined in a future event evaluation.
+
+### Entry Throughput
+
+Compare expected arrival volumes with actual entry capacity, security throughput and ticket-scanning capacity.
+
+### Queue Management
+
+Measure waiting times at different stages of the entry process.
+
+### Attendee Communication
+
+Evaluate whether pre-event information prepared attendees adequately for arrival and entry.
+
+### Crowd Flow
+
+Review movement patterns within the venue and identify potential congestion points.
+
+### Staff Deployment
+
+Assess whether staff were positioned effectively at key attendee decision points.
+
+---
+
+## 24. Lessons for Future Events
+
+The KPI framework could support future event improvement by connecting performance data to operational decisions.
 
 For example:
 
-**KPI result → Identify variance → Investigate cause → Define improvement → Assign owner → Monitor at future event**
+**Long Entry Times**
 
-This creates a continuous improvement cycle rather than treating evaluation as a purely administrative exercise.
+↓
+
+**Identify Cause**
+
+↓
+
+**Review Security / Scanning Capacity**
+
+↓
+
+**Adjust Entry Resources**
+
+↓
+
+**Measure Future Entry Performance**
+
+This creates a measurable continuous-improvement process.
 
 ---
 
-## 10. Portfolio Assumption
+## 25. Limitations
 
-This dashboard contains **proposed KPIs and targets**, not verified results from Warehouse Worship: The Gathering 2026.
+The case study does not have verified access to:
 
-Actual performance data would need to be obtained from appropriate event records, operational logs, financial information and attendee surveys before reporting measured results.
+- Final attendance figures
+- Complete ticket-scan data
+- Average entry times across all attendees
+- Internal incident statistics
+- Actual budget performance
+- Staff attendance records
+- Complete programme timing records
+- Internal stakeholder survey results
+- Production failure records
+
+Consequently, this dashboard demonstrates a **measurement framework** rather than a claim of actual event performance.
+
+---
+
+## 26. Portfolio Application
+
+This KPI dashboard demonstrates:
+
+- Performance measurement
+- KPI development
+- Target setting
+- Quantitative analysis
+- Qualitative evaluation
+- Data classification
+- Performance reporting
+- Corrective action
+- Continuous improvement
+
+---
+
+## 27. Conclusion
+
+A structured KPI framework allows an event project to move beyond simply asking whether the event took place.
+
+It provides a method for evaluating:
+
+- Whether the event met its objectives
+- Whether operations were effective
+- Whether attendees had a positive experience
+- Whether safety requirements were maintained
+- Whether the programme was delivered effectively
+- Whether expenditure remained controlled
+- Whether stakeholders were satisfied
+
+The proposed dashboard provides a framework that could be populated with verified event data where such data is available.
+
+---
+
+> **Portfolio disclaimer:** This document is an independent project-management case study based on publicly available information and first-hand attendee observation. KPI targets are illustrative and actual performance figures have not been invented where verified data was unavailable. This document does not claim access to Warehouse Worship's internal performance, financial, attendance, safety or operational data.
