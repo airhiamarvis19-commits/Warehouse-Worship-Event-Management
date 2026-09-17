@@ -2,271 +2,502 @@
 
 ## 1. Purpose
 
-This Request for Proposal (RFP) provides an illustrative procurement brief for selecting an event production supplier for a large-scale worship event.
+This Request for Proposal (RFP) provides an illustrative procurement framework for appointing suppliers to support the delivery of a large-scale worship event.
 
-The document demonstrates how project requirements, supplier deliverables, evaluation criteria and procurement controls could be structured.
+The document demonstrates how project requirements could be communicated to potential suppliers, how proposals could be evaluated and how supplier performance could be managed.
 
-This is a portfolio case study and does not represent an actual procurement request issued by Warehouse Worship.
-
----
-
-## 2. Event Context
-
-The event requires coordinated technical and production services to support a large-scale live worship experience.
-
-The production environment may include:
-
-- Large central stage
-- Professional audio system
-- Stage lighting
-- Large-format video screens
-- Live video production
-- Recording
-- Technical support
-- Artist changeovers
-- Rehearsal support
-
-The supplier must demonstrate the capability to deliver these services safely and professionally.
+This is an **illustrative portfolio document** and does not represent an actual Warehouse Worship procurement document or supplier tender.
 
 ---
 
-## 3. Required Supplier Services
+## 2. Procurement Objectives
 
-### Stage and Infrastructure
+The procurement process should aim to:
 
-The supplier should provide, where required:
+1. Identify suppliers capable of meeting the event requirements.
+2. Obtain competitive and transparent quotations.
+3. Establish clear supplier responsibilities.
+4. Assess supplier capability and experience.
+5. Ensure appropriate quality and safety standards.
+6. Manage supplier costs within the approved budget.
+7. Establish clear delivery deadlines.
+8. Reduce procurement and supplier-related risks.
 
-- Stage infrastructure
-- Stage access equipment
-- Back-of-house technical infrastructure
-- Appropriate rigging coordination
-- Stage management support
+---
+
+## 3. Proposed Procurement Categories
+
+Potential supplier categories include:
+
+| Category | Example Requirements |
+|---|---|
+| Production | Stage, audio, lighting and technical equipment |
+| Video | Screens, cameras and visual production |
+| Recording | Live audio/video recording |
+| Security | Security personnel and crowd-management support |
+| Staffing | Event staff and stewarding |
+| Medical | First-aid and medical provision |
+| Transport | Coaches and event transport |
+| Catering | Artist, staff and hospitality catering |
+| Cleaning | Pre-event, during-event and post-event cleaning |
+| Merchandise | Merchandise supply and event retail |
+| Signage | Wayfinding and event branding |
+| Temporary Infrastructure | Barriers, furniture and related equipment |
+
+---
+
+## 4. Supplier Requirements
+
+Suppliers should demonstrate:
+
+- Relevant event experience
+- Appropriate qualifications where required
+- Adequate staffing capacity
+- Appropriate equipment
+- Health and safety procedures
+- Insurance coverage
+- Reliable delivery capability
+- Clear pricing
+- References or evidence of previous work
+- Contingency arrangements
+
+---
+
+## 5. Production Supplier Brief
+
+A production supplier could be required to provide:
+
+### Stage
+
+- Stage structure
+- Stage decking
+- Back-of-house requirements
+- Access arrangements
+- Rigging coordination
 
 ### Audio
 
-Requirements may include:
-
-- Main PA system
-- Stage monitoring
+- Main sound system
+- Monitoring
 - Microphones
-- Mixing consoles
+- Mixing equipment
 - Audio engineers
-- Communications systems
 - Backup equipment
 
 ### Lighting
 
-Requirements may include:
-
 - Stage lighting
 - Audience lighting
-- Show lighting
-- Lighting control
+- Control systems
 - Lighting operators
 - Technical support
 
-### Video and Screens
+### Video
 
-Requirements may include:
-
-- Large-format screens
-- Video playback
-- Camera systems
+- LED screens / displays
+- Cameras
 - Vision mixing
 - Content playback
 - Video operators
-- Technical support
 
-### Live Recording
-
-Where recording forms part of the event objectives, the supplier may be required to provide:
+### Recording
 
 - Multi-camera recording
 - Audio recording
-- Technical recording crew
-- Data storage and backup
-- Post-event media files
-- Agreed delivery formats
+- Recording infrastructure
+- Data storage
+- Post-production deliverables
 
 ---
 
-## 4. Supplier Deliverables
+## 6. Supplier Deliverables
 
-The selected supplier would be expected to provide:
+The selected supplier should provide a detailed delivery schedule covering:
 
-1. Detailed technical proposal
-2. Equipment specification
-3. Site and technical requirements
-4. Production schedule
-5. Staffing plan
-6. Method statement
-7. Risk assessment
-8. Setup and dismantling plan
-9. Technical rehearsal plan
-10. Event-day technical support
-11. Backup / contingency arrangements
-12. Post-event deliverables
-
----
-
-## 5. Supplier Requirements
-
-Suppliers should demonstrate:
-
-- Relevant large-event experience
-- Appropriate technical capability
-- Qualified personnel
-- Adequate equipment
-- Strong health and safety procedures
-- Appropriate insurance
-- Reliable communication
-- Capacity to meet project deadlines
-- Appropriate contingency arrangements
-- Relevant references or previous work
-
----
-
-## 6. Procurement Timeline
-
-An illustrative procurement process could follow:
-
-| Stage | Indicative Timing |
+| Deliverable | Proposed Requirement |
 |---|---|
-| Supplier requirements defined | Week 8 |
-| RFP issued | Week 9 |
-| Supplier questions | Week 9–10 |
-| Proposals received | Week 11 |
-| Technical evaluation | Week 11–12 |
-| Commercial evaluation | Week 12 |
-| Supplier clarification | Week 13 |
-| Preferred supplier selected | Week 14 |
-| Contract finalisation | Week 14–15 |
-| Production planning begins | Week 15 onwards |
-
-These timings are proposed planning assumptions.
+| Equipment specification | Full equipment list |
+| Technical drawings | Where required |
+| Method statement | Before event delivery |
+| Risk assessment | Before event delivery |
+| Staffing plan | Before event |
+| Delivery schedule | Agreed in advance |
+| Setup | Before doors open |
+| Testing | Before event |
+| Technical rehearsal | Before event |
+| Event-day support | Throughout production |
+| Breakdown | After event |
+| Final documentation | Following delivery |
 
 ---
 
-## 7. Supplier Evaluation Criteria
+## 7. Supplier Proposal Requirements
 
-A weighted evaluation model could be used.
+Suppliers responding to the RFP should provide:
 
-| Evaluation Area | Weight |
+1. Company overview
+2. Relevant event experience
+3. Proposed delivery approach
+4. Equipment / resource list
+5. Staffing plan
+6. Health and safety information
+7. Insurance details
+8. Proposed schedule
+9. Cost breakdown
+10. Payment terms
+11. References
+12. Contingency arrangements
+
+---
+
+## 8. Illustrative Supplier Evaluation Criteria
+
+Supplier proposals could be evaluated using the following weighted criteria:
+
+| Evaluation Criteria | Weight |
 |---|---:|
 | Technical capability | 25% |
 | Relevant experience | 20% |
 | Health and safety | 15% |
-| Proposed delivery approach | 15% |
-| Commercial proposal | 15% |
-| Contingency and resilience | 5% |
-| Sustainability approach | 5% |
+| Delivery methodology | 15% |
+| Price / value | 15% |
+| Staffing and support | 5% |
+| References | 5% |
 | **Total** | **100%** |
 
-The evaluation should be based on documented evidence and agreed procurement requirements.
+The weighting is illustrative and does not represent an actual Warehouse Worship procurement process.
 
 ---
 
-## 8. Commercial Requirements
+## 9. Supplier Evaluation Process
 
-Suppliers should provide:
+A proposed evaluation process is:
 
-- Clear pricing
-- Equipment costs
-- Labour costs
-- Transport costs
-- Setup and dismantling costs
+**RFP Issued**
+
+↓
+
+**Supplier Questions**
+
+↓
+
+**Proposals Received**
+
+↓
+
+**Compliance Check**
+
+↓
+
+**Technical Evaluation**
+
+↓
+
+**Commercial Evaluation**
+
+↓
+
+**Supplier Clarification**
+
+↓
+
+**Due Diligence**
+
+↓
+
+**Selection**
+
+↓
+
+**Contract / Purchase Order**
+
+↓
+
+**Supplier Mobilisation**
+
+---
+
+## 10. Commercial Evaluation
+
+Supplier costs should be assessed against:
+
+- Quoted price
+- Scope of work
+- Equipment provided
+- Staffing
+- Delivery requirements
 - Additional charges
-- Overtime rates
-- Cancellation terms
+- Overtime
+- Transport
+- Setup and breakdown
 - Payment terms
-- Any exclusions or assumptions
 
-The project team should ensure that quotations are sufficiently detailed to allow meaningful comparison.
-
----
-
-## 9. Health and Safety Requirements
-
-Suppliers should provide appropriate documentation covering:
-
-- Risk assessments
-- Method statements
-- Equipment safety
-- Electrical safety
-- Working-at-height arrangements where applicable
-- Rigging requirements where applicable
-- Manual handling
-- Emergency procedures
-- Staff competence
-- Insurance
-
-All supplier activities should comply with applicable venue and event safety requirements.
+The lowest price should not automatically determine supplier selection. The proposal should be assessed against the agreed evaluation criteria.
 
 ---
 
-## 10. Sustainability Requirements
+## 11. Contract Management
 
-Where practical, suppliers should demonstrate consideration of:
+Supplier contracts should clearly establish:
 
-- Energy-efficient equipment
-- Reusable production materials
-- Waste reduction
-- Efficient transportation
-- Responsible material sourcing
-- Reduced single-use materials
-- Appropriate waste management
-
-Sustainability requirements should be proportionate to the event and supplier scope.
+- Scope of work
+- Deliverables
+- Delivery dates
+- Responsibilities
+- Payment terms
+- Cancellation arrangements
+- Insurance requirements
+- Health and safety requirements
+- Change-control arrangements
+- Performance expectations
+- Liability arrangements
 
 ---
 
-## 11. Supplier Risk Management
+## 12. Supplier Performance Management
+
+Supplier performance could be monitored using:
+
+| Performance Area | Example Measure |
+|---|---|
+| Delivery | Delivered on agreed schedule |
+| Quality | Equipment / service meets specification |
+| Safety | Compliance with agreed requirements |
+| Staffing | Required personnel provided |
+| Communication | Timely responses |
+| Technical reliability | Limited critical failures |
+| Budget | Delivery within agreed cost |
+| Close-down | Completed within agreed timeframe |
+
+---
+
+## 13. Supplier Risk Management
 
 Potential supplier risks include:
 
-| Risk | Potential Impact | Mitigation |
+| Risk | Potential Impact | Proposed Control |
 |---|---|---|
-| Late equipment delivery | Delayed setup | Delivery deadlines and progress monitoring |
-| Equipment failure | Programme disruption | Backup equipment and technical support |
-| Staffing shortage | Reduced technical capability | Confirm staffing in advance |
-| Poor communication | Coordination failures | Named supplier project manager |
-| Safety documentation incomplete | Operational delay | Pre-event document review |
-| Cost escalation | Budget pressure | Fixed quotations where appropriate |
-| Supplier cancellation | Major delivery disruption | Contingency supplier planning |
+| Supplier withdrawal | Operational disruption | Backup suppliers / contingency planning |
+| Late delivery | Delayed setup | Delivery milestones |
+| Equipment failure | Programme disruption | Testing and backup equipment |
+| Staffing shortage | Reduced operational capability | Confirm staffing in advance |
+| Cost increase | Budget pressure | Fixed quotations / change control |
+| Poor communication | Coordination problems | Named supplier contact |
+| Safety non-compliance | Safety risk | Method statements and checks |
 
 ---
 
-## 12. Contract Management
+## 14. Supplier Change Control
 
-Following appointment, supplier performance should be monitored against agreed deliverables.
+Any significant change to the agreed supplier scope should be formally reviewed.
 
-Key controls could include:
+Proposed process:
 
-- Contract milestones
-- Deliverable tracking
-- Regular supplier meetings
-- Change-control procedures
-- Issue logs
-- Performance reviews
-- Invoice verification
-- Final supplier evaluation
+**Change Requested**
 
-Changes to scope should be documented and approved before additional costs are committed.
+↓
+
+**Scope Impact Assessed**
+
+↓
+
+**Cost Impact Assessed**
+
+↓
+
+**Schedule Impact Assessed**
+
+↓
+
+**Risk Impact Assessed**
+
+↓
+
+**Approval**
+
+↓
+
+**Supplier Instruction**
+
+↓
+
+**Project Documentation Updated**
 
 ---
 
-## 13. Supplier Selection Process
+## 15. Supplier Communication
 
-A proposed selection process is:
+A named project contact should be established for each major supplier.
 
-**Requirements → RFP → Supplier Questions → Proposal Submission → Technical Evaluation → Commercial Evaluation → Clarification → Approval → Contract → Delivery**
+Communication may include:
 
-This approach provides a structured and transparent procurement process.
+- Procurement meetings
+- Progress meetings
+- Technical meetings
+- Email updates
+- Delivery schedules
+- Site meetings
+- Event-day briefings
+
+Communication frequency should increase as the event approaches.
 
 ---
 
-## 14. Portfolio Assumption
+## 16. Supplier Mobilisation
 
-This RFP is an **illustrative procurement document developed for portfolio purposes**.
+Before event delivery, suppliers should complete mobilisation activities including:
 
-It does not represent an actual Warehouse Worship supplier tender, supplier contract, supplier quotation or procurement decision.
+- Confirming personnel
+- Confirming equipment
+- Reviewing venue access
+- Reviewing delivery routes
+- Reviewing setup requirements
+- Reviewing health and safety requirements
+- Confirming emergency procedures
+- Confirming event-day contacts
+- Confirming breakdown arrangements
+
+---
+
+## 17. Event-Day Supplier Management
+
+Supplier management on event day should include:
+
+- Arrival monitoring
+- Equipment checks
+- Setup confirmation
+- Technical testing
+- Staff confirmation
+- Issue escalation
+- Performance monitoring
+- Breakdown coordination
+
+A supplier contact list should be available to the event operations team.
+
+---
+
+## 18. Supplier Close-Out
+
+Following the event, supplier close-out should include:
+
+- Equipment collection
+- Site inspection
+- Invoice review
+- Delivery confirmation
+- Outstanding issue resolution
+- Supplier performance review
+- Lessons learned
+
+---
+
+## 19. Procurement Timeline
+
+An illustrative procurement timeline could be:
+
+| Activity | Indicative Timing |
+|---|---|
+| Procurement requirements identified | March 2026 |
+| Supplier specification developed | April 2026 |
+| RFP issued | April 2026 |
+| Supplier proposals received | May 2026 |
+| Evaluation | May 2026 |
+| Supplier selection | May–June 2026 |
+| Contracting | June 2026 |
+| Supplier mobilisation | June–July 2026 |
+| Final confirmation | July 2026 |
+| Event delivery | 8 August 2026 |
+| Supplier close-out | August 2026 |
+
+> **Timeline note:** These dates are illustrative planning assumptions created for this portfolio case study and are not claimed to represent Warehouse Worship's actual procurement timeline.
+
+---
+
+## 20. Procurement Governance
+
+The procurement process should maintain:
+
+- Clear approval authority
+- Documented supplier evaluation
+- Transparent criteria
+- Appropriate financial controls
+- Conflict-of-interest management
+- Contract documentation
+- Supplier performance records
+
+---
+
+## 21. Procurement KPIs
+
+Potential procurement KPIs include:
+
+| KPI | Proposed Target |
+|---|---:|
+| Critical suppliers contracted by milestone | 100% |
+| Supplier compliance documentation | 100% |
+| Required equipment confirmed | 100% |
+| Supplier delivery milestones achieved | ≥95% |
+| Major supplier-related failures | 0 |
+| Unapproved cost increases | 0 |
+| Supplier performance reviews completed | 100% |
+
+These are proposed portfolio targets rather than actual event performance results.
+
+---
+
+## 22. Procurement Assumptions
+
+This RFP framework assumes:
+
+- Multiple specialist suppliers
+- Competitive procurement
+- Defined scopes of work
+- Formal supplier evaluation
+- Contractual controls
+- Supplier mobilisation before event day
+- Event-day supplier support
+
+---
+
+## 23. Procurement Limitations
+
+The case study does not have access to:
+
+- Actual Warehouse Worship supplier contracts
+- Actual supplier quotations
+- Internal procurement policies
+- Internal tender documentation
+- Actual supplier evaluation scores
+- Actual purchase orders
+- Actual supplier performance records
+
+Therefore, this document demonstrates a proposed procurement approach rather than an analysis of the organiser's actual procurement process.
+
+---
+
+## 24. Portfolio Application
+
+This procurement plan demonstrates:
+
+- Supplier requirement definition
+- RFP development
+- Supplier evaluation
+- Commercial assessment
+- Contract management
+- Supplier risk management
+- Change control
+- Supplier performance monitoring
+- Procurement governance
+
+---
+
+## 25. Conclusion
+
+Effective procurement is important for large-scale event delivery because specialist suppliers contribute directly to production, safety, logistics and attendee experience.
+
+A structured procurement process can help ensure that suppliers understand the required scope, delivery expectations, commercial arrangements and performance requirements before appointment.
+
+The proposed RFP framework provides a practical example of how procurement could be managed within a large-scale event project.
+
+---
+
+> **Portfolio disclaimer:** This document is an independent project-management case study based on publicly available information and first-hand attendee observation. It does not claim direct involvement in Warehouse Worship's procurement activities. Supplier requirements, evaluation criteria, timelines, KPIs and procurement procedures are illustrative portfolio outputs and are not actual Warehouse Worship tender or contract documentation.
