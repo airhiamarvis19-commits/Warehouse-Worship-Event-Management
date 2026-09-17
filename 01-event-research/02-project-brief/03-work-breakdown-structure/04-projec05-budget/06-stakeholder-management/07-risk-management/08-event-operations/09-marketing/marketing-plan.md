@@ -2,9 +2,11 @@
 
 ## 1. Purpose
 
-This marketing and communications plan provides an illustrative framework for promoting a large-scale worship event, communicating key information to attendees and supporting engagement before, during and after the event.
+This marketing and communications plan demonstrates how a large-scale event could be promoted, communicated and managed across the project lifecycle.
 
-The plan is a proposed project-management model created for this portfolio case study. It does not claim to represent Warehouse Worship's actual marketing strategy or campaign budget.
+The plan considers audience awareness, engagement, ticket conversion, pre-event communication, event-day information and post-event engagement.
+
+This is an **illustrative project-management framework** created for portfolio purposes. It does not claim to reproduce Warehouse Worship's actual internal marketing strategy.
 
 ---
 
@@ -12,307 +14,495 @@ The plan is a proposed project-management model created for this portfolio case 
 
 The proposed marketing objectives are to:
 
-- Build awareness of the event
-- Communicate the event proposition clearly
-- Generate interest and engagement
-- Support ticket sales and attendance
-- Provide useful pre-event information
-- Encourage attendee engagement during the event
-- Maintain post-event engagement
-- Support future event awareness and community growth
+1. Build awareness of the event.
+2. Communicate the event's purpose and experience.
+3. Generate audience interest and engagement.
+4. Support ticket sales and conversion.
+5. Provide clear practical information before attendance.
+6. Maintain audience engagement leading up to event day.
+7. Support a positive attendee experience.
+8. Encourage post-event engagement and retention.
 
 ---
 
 ## 3. Target Audience
 
-The primary audience would include:
+The potential audience can be considered across several groups:
 
-- Existing Warehouse Worship followers
-- Christian worship communities
-- Young adults and students
-- Church communities
-- Worship music audiences
-- Attendees interested in large-scale Christian events
-- Previous Warehouse Worship event attendees
+| Audience | Interest / Requirement |
+|---|---|
+| Worship attendees | Worship experience and event participation |
+| Existing Warehouse Worship audience | Continued engagement with the organisation |
+| Young adults | Music, worship and community experience |
+| Church communities | Group attendance and shared worship |
+| Regional attendees | Transport and travel information |
+| First-time attendees | Clear event information and reassurance |
+| Returning attendees | Continued engagement and event updates |
 
-Secondary audiences could include:
-
-- Family and friends of attendees
-- Christian organisations
-- Music and worship communities
-- Event partners and sponsors
-- Wider social-media audiences
+These audience categories are proposed for the case study and do not represent Warehouse Worship's official audience segmentation.
 
 ---
 
 ## 4. Marketing Funnel
 
-The proposed marketing journey is:
+The proposed marketing funnel is:
 
-**Awareness → Interest → Consideration → Conversion → Attendance → Engagement → Retention**
+**Awareness → Interest → Consideration → Conversion → Attendance → Engagement / Retention**
 
 ### Awareness
 
-Generate initial awareness through:
-
-- Social media
-- Event announcements
-- Promotional videos
-- Artist announcements
-- Partner networks
-- Church and community networks
+Introduce the event to potential attendees through promotional content and digital channels.
 
 ### Interest
 
-Build interest through:
+Provide information about:
 
-- Programme information
-- Artist content
-- Event videos
-- Testimonials
-- Behind-the-scenes content
-- Event themes and messaging
+- Event purpose
+- Speakers / artists
+- Venue
+- Date
+- Programme
+- Experience
 
 ### Consideration
 
-Help potential attendees make an informed decision through:
+Address practical questions such as:
 
-- Venue information
+- Ticket options
 - Event timings
-- Ticket information
-- Travel information
-- Frequently asked questions
-- Accessibility information
+- Venue location
+- Transport
+- Seating
+- Entry arrangements
 
 ### Conversion
 
-Encourage ticket purchase through:
-
-- Direct ticket links
-- Campaign calls-to-action
-- Deadline messaging where appropriate
-- Social-media reminders
-- Email communications
+Encourage interested audiences to purchase tickets.
 
 ### Attendance
 
-Reduce uncertainty before the event by communicating:
+Provide practical information to help ticket holders prepare for event day.
 
-- Venue location
-- Door opening time
-- Event start time
-- Ticket requirements
-- Seating information
-- Transport guidance
-- Security and bag requirements
+### Engagement / Retention
 
-### Engagement and Retention
-
-After the event, maintain engagement through:
-
-- Event highlights
-- Photography and video
-- Recorded content
-- Thank-you communications
-- Feedback surveys
-- Future event announcements
+Maintain relationships with attendees after the event.
 
 ---
 
-## 5. Proposed Marketing Channels
+## 5. Marketing Channels
+
+Potential channels include:
 
 | Channel | Purpose |
 |---|---|
-| Instagram | Visual promotion, artist content and audience engagement |
-| TikTok | Short-form video and audience reach |
-| YouTube | Promotional and longer-form video content |
+| Instagram | Awareness, visual content and engagement |
+| TikTok | Short-form promotional content |
+| YouTube | Longer-form promotional and event content |
 | Email | Direct attendee communication |
-| Website | Central source of event information |
-| Church networks | Community outreach |
-| Partner organisations | Extended audience reach |
-| Physical signage | Local event awareness |
-| Word of mouth | Peer-to-peer promotion |
+| Website | Event information and ticketing |
+| Church networks | Community-based promotion |
+| Influencers / Creators | Audience reach |
+| Digital advertising | Targeted awareness |
+| Printed materials | Local / community promotion |
 
 ---
 
-## 6. Communications Timeline
+## 6. Content Strategy
 
-| Period | Main Communication Activity |
-|---|---|
-| Early campaign | Event announcement and awareness |
-| Campaign development | Programme and artist communications |
-| Ticketing period | Ticket sales and promotional content |
-| Mid-campaign | Testimonials, video and engagement content |
-| Final weeks | Practical attendee information |
-| Final week | Arrival, venue and ticket reminders |
-| Event day | Live updates and attendee information |
-| Post-event | Thank-you, highlights and feedback |
-| Following weeks | Content distribution and future engagement |
+Potential content could include:
 
----
+### Event Announcement
 
-## 7. Content Strategy
+Introduce the event, date, venue and core purpose.
 
-Content could be divided into several categories.
+### Artist / Speaker Content
 
-### Event Information
-
-Practical information such as:
-
-- Date
-- Venue
-- Timings
-- Ticket information
-- Travel
-- Entry requirements
-
-### Programme Content
-
-Content introducing:
-
-- Artists
-- Worship leaders
-- Speakers
-- Special programme elements
-
-### Community Content
-
-Content showing:
-
-- Previous events
-- Attendee experiences
-- Worship moments
-- Community stories
+Highlight participating artists, worship leaders and speakers.
 
 ### Behind-the-Scenes Content
 
-Content demonstrating:
-
-- Rehearsals
-- Production preparation
-- Volunteer activity
-- Venue preparation
+Show preparation, rehearsals and production development where appropriate.
 
 ### Countdown Content
 
-In the final weeks:
+Use structured countdown communications as the event approaches.
 
-- Countdown posts
-- Practical reminders
-- Travel guidance
-- Frequently asked questions
-- Final ticket reminders
+### Practical Information
+
+Communicate:
+
+- Doors opening
+- Event start and finish
+- Venue information
+- Ticket requirements
+- Seating arrangements
+- Security requirements
+- Prohibited items
+- Transport information
+
+### Event-Day Content
+
+Provide appropriate updates and attendee information.
+
+### Post-Event Content
+
+Potential content includes:
+
+- Event highlights
+- Photography
+- Video
+- Testimonials
+- New music
+- Future event information
 
 ---
 
-## 8. Communications During the Event
+## 7. Illustrative Marketing Timeline
 
-Event-day communications should focus on providing useful and timely information.
+| Period | Main Marketing Activity |
+|---|---|
+| February | Initial campaign planning |
+| March | Campaign development and event awareness |
+| April | Audience engagement and content development |
+| May | Artist / programme promotion |
+| June | Ticket conversion activity |
+| July | Countdown campaign and practical information |
+| Early August | Final attendee communications |
+| Event Day | Live event communication |
+| Post-Event | Highlights, engagement and evaluation |
+
+The timeline is illustrative and does not represent Warehouse Worship's actual marketing calendar.
+
+---
+
+## 8. Marketing Campaign Phases
+
+### Phase 1 – Awareness
+
+Focus on reaching potential attendees and establishing recognition of the event.
+
+Potential activities:
+
+- Event announcement
+- Social media content
+- Promotional graphics
+- Partner promotion
+- Digital advertising
+
+---
+
+### Phase 2 – Engagement
+
+Build interest through regular content.
+
+Potential activities:
+
+- Artist announcements
+- Event information
+- Video content
+- Testimonials
+- Social media interaction
+
+---
+
+### Phase 3 – Conversion
+
+Focus on encouraging ticket purchases.
+
+Potential activities:
+
+- Ticket reminders
+- Event benefits
+- Countdown content
+- Targeted digital advertising
+- Email campaigns
+
+---
+
+### Phase 4 – Attendance Preparation
+
+Focus shifts from ticket sales to helping ticket holders prepare.
 
 Potential communications include:
 
-- Entrance information
-- Programme updates
-- Venue guidance
-- Safety announcements
-- Transport information
-- Changes to programme arrangements
-- Merchandise information
-- Post-event information
-
-Information should be consistent across staff announcements, digital channels and venue signage.
+- Event timings
+- Venue information
+- Transport
+- Entry arrangements
+- Security requirements
+- What attendees should bring
+- What items are prohibited
 
 ---
 
-## 9. Illustrative Marketing Budget
+### Phase 5 – Post-Event Engagement
 
-An illustrative marketing allocation of **£30,000** is included within the overall project budget.
+Maintain audience relationships after the event.
 
-A possible allocation could include:
+Potential activities:
 
-| Activity | Illustrative Allocation |
+- Event highlights
+- Photography
+- Video content
+- Attendee feedback
+- Future event promotion
+- Community engagement
+
+---
+
+## 9. Attendee Communications
+
+Pre-event communications should provide practical information clearly and consistently.
+
+Important information may include:
+
+- Event date
+- Venue
+- Doors time
+- Event start time
+- Ticket requirements
+- Seating arrangements
+- Entry information
+- Security requirements
+- Bag restrictions
+- Transport information
+- Accessibility information
+- Emergency information where appropriate
+
+The user's event-day communication materials indicated that attendees were advised about arrival, ticket presentation, seating, prohibited items and other venue-entry requirements.
+
+---
+
+## 10. Event-Day Communication
+
+Event-day communication should support the attendee journey from arrival through departure.
+
+Potential communication methods include:
+
+- Venue signage
+- Staff and steward communication
+- Announcements
+- Digital communication
+- Social media updates
+- Information points
+
+Communications should be concise, accurate and consistent across channels.
+
+---
+
+## 11. Marketing Budget
+
+An illustrative marketing allocation of **£30,000** has been included in the project budget.
+
+Potential allocation:
+
+| Marketing Activity | Illustrative Allocation |
 |---|---:|
-| Paid social advertising | £10,000 |
-| Video and creative production | £6,000 |
-| Influencer / creator partnerships | £3,000 |
-| Graphic design and content | £3,000 |
-| Email and digital communications | £1,500 |
-| Physical promotional materials | £2,500 |
-| Community / partnership activation | £2,000 |
-| Contingency | £2,000 |
+| Digital advertising | £10,000 |
+| Creative content | £5,000 |
+| Social media / campaign management | £5,000 |
+| Influencer / creator activity | £3,000 |
+| Printed / promotional materials | £2,000 |
+| Photography / video content | £3,000 |
+| Contingency / miscellaneous | £2,000 |
 | **Total** | **£30,000** |
 
-These figures are illustrative planning assumptions and are not Warehouse Worship's actual marketing expenditure.
+> **Budget note:** These figures are illustrative and are not actual Warehouse Worship marketing expenditure.
 
 ---
 
-## 10. Proposed Marketing KPIs
+## 12. Marketing Performance Measures
+
+Potential marketing KPIs include:
 
 | KPI | Proposed Measure |
 |---|---|
-| Social-media reach | Campaign reach |
-| Engagement rate | Likes, comments, shares and saves |
+| Reach | Total audience reached |
+| Engagement rate | Audience interactions |
 | Website traffic | Event-page visits |
-| Ticket conversion | Visitors converting to ticket purchases |
-| Email engagement | Open and click-through rates |
-| Video performance | Views and completion rate |
-| Attendance | Actual attendance compared with forecast |
-| Attendee satisfaction | Post-event survey |
-| Post-event engagement | Content views and interactions |
+| Ticket conversion | Visits converted into purchases |
+| Email performance | Open and click-through rates |
+| Social growth | Audience growth |
+| Content performance | Engagement by content type |
+| Attendance conversion | Ticket holders attending |
+| Post-event engagement | Interaction after event |
+
+No actual performance figures are claimed in this case study.
 
 ---
 
-## 11. Attendee Information Management
+## 13. Marketing Measurement Framework
 
-One of the most important communication objectives is reducing uncertainty before arrival.
+Marketing performance can be considered across the following stages:
 
-Information should be:
+**Reach**
 
-- Accurate
-- Consistent
-- Easy to find
-- Updated when changes occur
-- Written in clear language
-- Accessible across relevant platforms
+↓
 
-This is particularly important for large events where unclear information can contribute to unnecessary queues, confusion or pressure on front-of-house staff.
+**Engagement**
 
----
+↓
 
-## 12. Change Communications
+**Website / Information Visits**
 
-If a significant event detail changes, the project team should:
+↓
 
-1. Confirm the change internally.
-2. Assess its impact.
-3. Agree the approved message.
-4. Update relevant digital information.
-5. Communicate the change to affected stakeholders.
-6. Brief staff and suppliers.
-7. Monitor attendee questions and feedback.
+**Ticket Conversion**
 
-Examples could include programme changes, transport changes, venue information or entry procedures.
+↓
+
+**Attendance**
+
+↓
+
+**Post-Event Engagement**
+
+This allows marketing activity to be connected to the wider event lifecycle rather than focusing only on social media metrics.
 
 ---
 
-## 13. Post-Event Communications
+## 14. Stakeholder Coordination
 
-Post-event communications could include:
+Marketing should coordinate closely with:
 
-- Thank-you message
-- Event photographs
-- Highlight videos
-- Recorded worship content
-- Attendee feedback survey
-- Future event information
-- Community engagement content
+- Event Leadership
+- Programme / Artist Management
+- Venue Management
+- Production
+- Ticketing
+- Operations
+- Suppliers
 
-The post-event stage can therefore support both evaluation and longer-term audience engagement.
+Changes to the programme, venue arrangements or operational requirements should be reflected in attendee communications where relevant.
 
 ---
 
-## 14. Marketing Assumption
+## 15. Communication Risk Management
 
-This document is an **illustrative marketing and communications plan developed for portfolio purposes**.
+Potential communication risks include:
 
-The channels, budget allocation, KPIs and communication timeline represent proposed project-management approaches rather than verified details of Warehouse Worship's internal marketing strategy.
+| Risk | Potential Impact | Proposed Control |
+|---|---|---|
+| Incorrect event information | Attendee confusion | Central approval process |
+| Late programme changes | Outdated promotional content | Rapid update process |
+| Poor communication of entry arrangements | Increased queues / confusion | Clear pre-event information |
+| Inconsistent messaging | Reduced trust | Central communication plan |
+| Social media misinformation | Attendee uncertainty | Monitor and respond appropriately |
+| Late practical information | Poor attendee preparation | Planned information schedule |
+
+---
+
+## 16. Brand Consistency
+
+Marketing materials should maintain consistent:
+
+- Event name
+- Visual identity
+- Messaging
+- Tone of voice
+- Event information
+- Ticketing information
+
+All public-facing information should be reviewed before publication.
+
+---
+
+## 17. Marketing Governance
+
+A proposed approval process is:
+
+**Content Created**
+
+↓
+
+**Marketing Review**
+
+↓
+
+**Operational / Programme Check**
+
+↓
+
+**Project Approval**
+
+↓
+
+**Publication**
+
+↓
+
+**Performance Monitoring**
+
+↓
+
+**Review and Optimisation**
+
+This helps reduce the risk of conflicting or inaccurate information.
+
+---
+
+## 18. Post-Event Evaluation
+
+Marketing performance should be reviewed after the event.
+
+Potential evaluation areas include:
+
+- Campaign reach
+- Engagement
+- Ticket conversion
+- Attendance
+- Content performance
+- Audience feedback
+- Website traffic
+- Email performance
+- Post-event engagement
+
+Lessons identified should inform future campaigns.
+
+---
+
+## 19. Assumptions and Limitations
+
+This marketing plan is an illustrative portfolio output.
+
+It does not claim access to:
+
+- Warehouse Worship's internal marketing strategy
+- Actual advertising spend
+- Internal campaign data
+- Social media analytics
+- Ticket conversion data
+- Internal audience segmentation
+- Marketing agency contracts
+- Internal communication schedules
+
+Where actual performance data was unavailable, proposed measures and targets have been used instead.
+
+---
+
+## 20. Portfolio Application
+
+This marketing plan demonstrates:
+
+- Marketing planning
+- Audience segmentation
+- Campaign development
+- Communication planning
+- Digital marketing considerations
+- Budget allocation
+- KPI development
+- Stakeholder coordination
+- Risk management
+- Post-event evaluation
+
+---
+
+## 21. Conclusion
+
+Effective event marketing extends beyond generating ticket sales. It should support the complete attendee journey by building awareness, communicating value, converting interest into attendance and providing clear practical information.
+
+The proposed marketing framework connects promotional activity with ticketing, operations, attendee experience and post-event engagement.
+
+---
+
+> **Portfolio disclaimer:** This document is an independent project-management case study based on publicly available information and first-hand attendee observation. It does not claim direct involvement in Warehouse Worship's marketing activities. Marketing channels, budgets, timelines, KPIs and communication processes are illustrative portfolio outputs unless explicitly identified as published or first-hand observations.
