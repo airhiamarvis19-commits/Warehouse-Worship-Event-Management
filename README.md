@@ -2,295 +2,599 @@
 
 ## Event Management & Project Management Case Study
 
-### Overview
+An independent project-management case study examining the planning, operational delivery and evaluation of **Warehouse Worship – The Gathering 2026** in Manchester.
 
-This portfolio project presents an independent project-management case study of Warehouse Worship – The Gathering 2026, a large-scale worship and live music event held in Manchester.
+This portfolio demonstrates how professional project-management principles can be applied to a large-scale live event environment.
 
-The case study demonstrates how project management principles can be applied to the planning, coordination, delivery and evaluation of a large-scale live event.
+---
 
-The project covers:
+## 📌 Project Overview
+
+**The Gathering 2026** was a large-scale worship event presented by Warehouse Worship.
+
+This portfolio uses the event as a real-world case study to examine:
 
 - Project planning
-- Work Breakdown Structure (WBS)
-- Project scheduling
+- Scope management
+- Work breakdown structures
+- Scheduling
 - Budget planning
 - Stakeholder management
 - Risk management
 - Event operations
-- Marketing and communications
+- Marketing
 - Procurement
 - Event-day coordination
 - KPI development
-- Post-event evaluation
+- Lessons learned
 
 ---
 
-## Event Context
+## ⚠️ Case Study Disclaimer
 
-| Detail | Information |
+This is an **independent portfolio case study**.
+
+I did **not** organise, manage or deliver Warehouse Worship – The Gathering 2026.
+
+The project combines:
+
+1. Publicly available event information
+2. First-hand attendee observation
+3. Independent project-management analysis
+4. Illustrative project-management outputs
+
+The project schedules, budgets, risk scores, stakeholder structures, KPIs and operational plans created within this repository are **illustrative portfolio outputs** and should not be interpreted as Warehouse Worship's actual internal documentation.
+
+---
+
+## 📅 Event Context
+
+| Item | Detail |
 |---|---|
-| Event | Warehouse Worship – The Gathering 2026 |
+| Event | The Gathering 2026 |
+| Organiser | Warehouse Worship |
 | Venue | Manchester Central Convention Complex |
 | Date | 8 August 2026 |
-| Doors Open | 4:30 PM |
+| Doors | 4:30 PM |
 | Event | 5:00 PM – 11:00 PM |
-| Organiser | Warehouse Worship |
 | Case Study Type | Independent portfolio analysis |
 
----
-
-## Case Study Disclaimer
-
-This is an independent project-management case study based on publicly available information, event documentation and first-hand attendee observation of Warehouse Worship – The Gathering 2026.
-
-I did not organise, manage or deliver the event. The project therefore does not claim direct involvement in the organiser's planning or operational activities.
-
-The purpose of the case study is to demonstrate how I would approach the planning and management of a large-scale event using project-management principles.
-
-Where internal event information was unavailable, proposed schedules, budgets, KPIs, stakeholder structures, risk controls and management processes have been developed as illustrative portfolio outputs.
-
-These assumptions are clearly identified throughout the project.
+The ticket information reviewed for this case study confirms the event date and 5:00 PM event time. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## Project Objectives
+## 🎯 Project Objectives
 
-The case study was developed around the following objectives:
+The case study was developed to demonstrate how a project manager could approach a large-scale event from initiation through to post-event evaluation.
 
-1. Develop a structured framework for large-scale event delivery.
-2. Apply project-management principles to a real-world event scenario.
-3. Identify and manage key project stakeholders.
-4. Identify operational and safety risks and develop appropriate controls.
-5. Develop an integrated project schedule.
-6. Establish an illustrative event budget and financial controls.
-7. Develop an event-day operational framework.
-8. Establish measurable project KPIs.
-9. Evaluate the attendee journey using first-hand observation.
-10. Identify potential lessons and areas for future improvement.
+The objectives were to:
 
----
-
-## Project Deliverables
-
-| Deliverable | Purpose |
-|---|---|
-| Event Research | Establishes the research and evidence base |
-| Project Brief | Defines objectives, scope and project requirements |
-| Work Breakdown Structure | Breaks the project into manageable work packages |
-| Project Schedule | Establishes activities, dependencies and milestones |
-| Illustrative Budget | Demonstrates financial planning and cost control |
-| Stakeholder Plan | Defines stakeholder engagement and responsibilities |
-| Risk Register | Identifies risks, ratings and mitigation measures |
-| Operations Plan | Establishes an event-day operational framework |
-| Marketing Plan | Develops a proposed communications and marketing approach |
-| Supplier RFP | Demonstrates procurement and supplier management |
-| Run of Show | Provides an illustrative event-day coordination framework |
-| KPI Dashboard | Defines proposed performance measures |
-| Lessons Learned | Evaluates observations and identifies improvement opportunities |
+1. Define the project scope and objectives.
+2. Develop a structured work breakdown structure.
+3. Create an illustrative project schedule.
+4. Develop an illustrative event budget.
+5. Identify and analyse stakeholders.
+6. Develop a structured risk-management approach.
+7. Design an event operations framework.
+8. Develop a marketing and communications plan.
+9. Create a supplier procurement framework.
+10. Develop an event-day Run of Show.
+11. Establish measurable KPIs.
+12. Capture lessons learned and improvement opportunities.
 
 ---
 
-## Project Management Approach
+## 🧩 Project Management Approach
 
-The case study follows an integrated project lifecycle:
+The portfolio follows the project lifecycle:
 
-**Research**  
-↓  
-**Project Brief**  
-↓  
-**Work Breakdown Structure**  
-↓  
-**Project Schedule**  
-↓  
-**Budget**  
-↓  
-**Stakeholder Management**  
-↓  
-**Risk Management**  
-↓  
-**Event Operations**  
-↓  
-**Marketing & Communications**  
-↓  
-**Procurement**  
-↓  
-**Event Delivery**  
-↓  
-**Performance Evaluation**  
-↓  
-**Lessons Learned**
+**Initiation → Planning → Development → Preparation → Event Delivery → Evaluation**
 
-The approach demonstrates how different project workstreams can be connected rather than managed independently.
+The project is divided into interconnected workstreams covering:
 
----
-
-## Key Operational Observation
-
-One of the most significant observations from my first-hand attendee experience was congestion during the arrival and entry period.
-
-The attendee entry journey involved:
-
-**Arrival → Queue → Security → Ticket Scanning → Wristband / Admission → Venue Entry**
-
-This highlighted the importance of:
-
-- Peak arrival forecasting
-- Entry capacity planning
-- Queue monitoring
-- Security and steward deployment
-- Clear attendee communication
-- Front-of-house escalation procedures
-
-This observation was used to inform the proposed risk register, operations plan and KPI framework.
-
-It is presented as an individual attendee observation rather than a statistically representative assessment of the event.
-
----
-
-## Attendee Perspective
-
-The project incorporates first-hand observations from attending the event.
-
-Areas considered included:
-
-- Arrival and transport
-- Queueing and entry
-- Ticket scanning
+- Project management
+- Venue
+- Programme
+- Production
+- Marketing
+- Ticketing
+- Staffing
 - Security
-- Wayfinding
-- Seating and standing areas
-- Staff communication
-- Crowd movement
-- Venue facilities
-- Event exit
-
-The attendee perspective is used to complement the project-management analysis and identify areas that could be considered during future event planning.
+- Logistics
+- Operations
+- Evaluation
 
 ---
 
-## Skills Demonstrated
+## 📊 Project Deliverables
+
+| # | Deliverable | Purpose |
+|---:|---|---|
+| 01 | Event Research | Establish the evidence base |
+| 02 | Project Brief | Define scope and objectives |
+| 03 | Work Breakdown Structure | Break the project into manageable work packages |
+| 04 | Project Schedule | Demonstrate project sequencing and timing |
+| 05 | Event Budget | Demonstrate cost planning and contingency |
+| 06 | Stakeholder Management Plan | Identify and manage stakeholders |
+| 07 | Risk Register | Identify and control project risks |
+| 08 | Event Operations Plan | Structure event-day operational delivery |
+| 09 | Marketing Plan | Develop audience and communications strategy |
+| 10 | Supplier RFP | Demonstrate procurement planning |
+| 11 | Run of Show | Structure event-day activities |
+| 12 | KPI Dashboard | Define performance measures |
+| 13 | Lessons Learned | Evaluate observations and improvement opportunities |
+
+---
+
+## 🗂️ Portfolio Structure
+
+```text
+Warehouse-Worship-Event-Management/
+│
+├── README.md
+│
+├── 01-event-research/
+│   └── event-research.md
+│
+├── 02-project-brief/
+│   └── project-brief.md
+│
+├── 03-work-breakdown-structure/
+│   └── wbs.md
+│
+├── 04-project-schedule/
+│   └── project-schedule.md
+│
+├── 05-budget/
+│   └── event-budget.md
+│
+├── 06-stakeholder-management/
+│   └── stakeholder-plan.md
+│
+├── 07-risk-management/
+│   └── risk-register.md
+│
+├── 08-event-operations/
+│   └── operations-plan.md
+│
+├── 09-marketing/
+│   └── marketing-plan.md
+│
+├── 10-procurement/
+│   └── supplier-rfp.md
+│
+├── 11-run-of-show/
+│   └── run-of-show.md
+│
+├── 12-kpi-dashboard/
+│   └── kpi-dashboard.md
+│
+└── 13-lessons-learned/
+    └── lessons-learned.md
+```
+
+---
+
+## 🗓️ Project Schedule
+
+The illustrative project schedule covers a proposed planning lifecycle leading towards the 8 August 2026 event date.
+
+The schedule demonstrates overlapping workstreams including:
+
+- Project initiation
+- Venue planning
+- Programme planning
+- Production
+- Marketing
+- Ticketing
+- Staffing
+- Security
+- Logistics
+- Final preparation
+- Event delivery
+- Post-event evaluation
+
+All internal project dates are illustrative assumptions and are not claimed to represent Warehouse Worship's actual project deadlines.
+
+---
+
+## 💰 Illustrative Budget
+
+The portfolio develops an illustrative event budget of:
+
+### **£443,300**
+
+This includes a proposed **10% contingency allowance of £40,300**.
+
+The largest illustrative cost areas include:
+
+- Stage, sound and lighting
+- Artists / performers
+- Venue
+- Live recording and production
+- Marketing
+- Security and crowd management
+
+The budget is entirely illustrative and does not represent actual Warehouse Worship expenditure.
+
+---
+
+## 👥 Stakeholder Management
+
+The stakeholder plan uses:
+
+- Power–Interest analysis
+- RACI responsibility allocation
+- Communication planning
+- Stakeholder engagement strategies
+- Escalation processes
+
+Stakeholders considered include:
+
+- Event leadership
+- Venue management
+- Production
+- Security
+- Artists
+- Authorities
+- Suppliers
+- Volunteers
+- Attendees
+- Partners
+
+The stakeholder classifications are proposed portfolio assumptions rather than confirmed internal Warehouse Worship structures.
+
+---
+
+## ⚠️ Risk Management
+
+The risk register uses a **5 × 5 probability and impact methodology**.
+
+Key potential risks considered include:
+
+- Entry congestion
+- Crowd congestion
+- Medical incidents
+- Emergency situations
+- Technical failure
+- Artist / programme changes
+- Supplier delays
+- Transport disruption
+- Attendee confusion
+- Overcrowding
+
+The risk scores and mitigation measures are illustrative.
+
+---
+
+## ⚙️ Event Operations
+
+The operations plan considers the complete attendee and operational journey:
+
+**Arrival → Queue → Security → Ticket Scan → Entry → Event → Facilities → Departure**
+
+The operational framework considers:
+
+- Venue management
+- Security
+- Crowd management
+- Ticketing
+- Staffing
+- Production
+- Medical response
+- Transport
+- Facilities
+- Cleaning
+- Event close-down
+
+---
+
+## 📣 Marketing & Communications
+
+The marketing plan uses a structured funnel:
+
+**Awareness → Interest → Consideration → Conversion → Attendance → Engagement**
+
+Potential channels include:
+
+- Social media
+- Email
+- Website
+- Digital advertising
+- Church / community networks
+- Creator / influencer activity
+- Promotional content
+
+The marketing framework is illustrative and does not claim to reproduce Warehouse Worship's actual marketing strategy.
+
+---
+
+## 🤝 Procurement
+
+The supplier RFP demonstrates a structured approach to:
+
+- Supplier identification
+- Requirements definition
+- Proposal evaluation
+- Commercial assessment
+- Contract management
+- Supplier mobilisation
+- Performance monitoring
+
+An illustrative weighted evaluation framework is included within the procurement document.
+
+---
+
+## 🎤 Event-Day Run of Show
+
+The Run of Show demonstrates how event-day activities could be coordinated across:
+
+- Venue
+- Production
+- Security
+- Staffing
+- Attendee entry
+- Programme delivery
+- Medical response
+- Crowd management
+- Departure
+- Close-down
+
+The publicly communicated event timings used in this case study are:
+
+**Doors: 4:30 PM**
+
+**Event: 5:00 PM – 11:00 PM**
+
+Internal setup and preparation times shown in the Run of Show are illustrative.
+
+---
+
+## 📈 KPI & Performance Management
+
+The KPI dashboard establishes proposed measures for:
+
+- Attendance
+- Attendee satisfaction
+- Entry waiting time
+- Ticket scanning
+- Safety
+- Programme performance
+- Technical performance
+- Staffing
+- Budget variance
+- Stakeholder satisfaction
+
+Where verified internal event data was unavailable, actual results have **not** been invented.
+
+The dashboard therefore distinguishes between:
+
+**Proposed Target → Actual Result → Status**
+
+---
+
+## 👀 First-Hand Attendee Perspective
+
+A key component of the case study is first-hand observation of the attendee journey.
+
+The author attended the event and observed:
+
+- A significant queue on arrival
+- Security screening
+- Ticket scanning
+- Wristband allocation
+- Clear signage
+- Staff communication
+- Toilets and merchandise facilities
+- Crowd movement
+- Event departure arrangements
+
+The most significant operational observation was the **lengthy entry process**.
+
+This observation is treated as qualitative attendee evidence rather than a statistically representative measurement of the entire audience.
+
+---
+
+## 🔎 Evidence Classification
+
+The project deliberately distinguishes between different types of evidence.
+
+### Published / Verified
+
+Information supported by public event information or published coverage.
+
+### First-Hand Observation
+
+Direct observations made by the author while attending the event.
+
+### Illustrative Project Outputs
+
+Project schedules, budgets, risk scores, stakeholder classifications, KPIs and operational frameworks created for this portfolio.
+
+### Unavailable Internal Data
+
+Information such as:
+
+- Final attendance
+- Actual expenditure
+- Internal staffing
+- Internal incident statistics
+- Supplier performance
+- Internal stakeholder feedback
+
+has not been presented as fact where it was unavailable.
+
+---
+
+## 📚 Research Limitations
+
+This case study does not have access to Warehouse Worship's internal:
+
+- Project plans
+- Financial records
+- Risk registers
+- Staffing plans
+- Supplier contracts
+- Production schedules
+- Security plans
+- Attendance statistics
+- Post-event reports
+
+Consequently, the project demonstrates **how I would approach the management and evaluation of a comparable event**, rather than claiming to reconstruct the organiser's internal project-management system.
+
+---
+
+## 🧠 Skills Demonstrated
+
+This portfolio demonstrates practical application of:
 
 ### Project Management
 
-- Project planning
-- Scope management
+- Project initiation
+- Scope definition
+- Work breakdown structures
 - Scheduling
 - Resource planning
-- Risk management
+
+### Commercial Management
+
+- Budget development
+- Cost allocation
+- Contingency planning
+- Procurement
+- Supplier evaluation
+
+### Risk & Governance
+
+- Risk identification
+- Risk assessment
+- Risk mitigation
 - Stakeholder management
-- Project controls
-- Change management
+- Responsibility allocation
 
 ### Event Management
 
 - Event operations
+- Crowd management
 - Attendee journey planning
-- Crowd-management planning
-- Supplier coordination
-- Event-day planning
-- Programme coordination
-- Operational readiness
+- Event-day coordination
+- Programme planning
 
-### Business & Analytical Skills
+### Performance Management
 
-- Research
-- Data analysis
 - KPI development
-- Budget planning
-- Problem identification
-- Process improvement
-- Performance evaluation
-
-### Project Management Tools & Methods
-
-- Work Breakdown Structures
-- Gantt-style scheduling
-- RACI
-- Power–Interest Matrix
-- Risk Register
-- KPI Dashboard
-- RFP / Procurement planning
-- Lessons-learned analysis
+- Performance measurement
+- Evaluation
+- Lessons learned
+- Continuous improvement
 
 ---
 
-## Research & Evidence
+## 🔄 Continuous Improvement
 
-The case study uses a combination of:
+The overall project-management approach can be represented as:
 
-- Event ticket documentation
-- Event-day attendee communications
-- Publicly available event information
+**Plan**
+
+↓
+
+**Deliver**
+
+↓
+
+**Measure**
+
+↓
+
+**Review**
+
+↓
+
+**Learn**
+
+↓
+
+**Improve**
+
+↓
+
+**Plan Again**
+
+This approach demonstrates how event experience can be converted into actionable project-management improvements.
+
+---
+
+## 💡 Key Portfolio Learning
+
+The most significant learning point from the attendee perspective was the importance of treating the **attendee journey as an end-to-end project workstream**.
+
+An event does not begin when the main programme starts.
+
+It begins with:
+
+**Pre-Event Communication**
+
+and continues through:
+
+**Transport → Arrival → Queue → Entry → Event Experience → Facilities → Departure**
+
+Each stage can affect the overall attendee experience.
+
+---
+
+## 🎓 Professional Development
+
+This case study has been developed to strengthen practical project-management capability by applying academic and professional project-management principles to a real-world event environment.
+
+It demonstrates the ability to move from:
+
+**Research → Analysis → Planning → Risk → Cost → Stakeholders → Operations → Measurement → Evaluation**
+
+---
+
+## 📖 Sources & Evidence
+
+The project draws on:
+
+- Event ticket information
+- Publicly available Warehouse Worship event information
 - Published event coverage
+- Venue information
 - First-hand attendee observation
 
-Evidence has been separated from assumptions wherever possible.
+The detailed sources and evidence are documented within:
 
-### Evidence Categories
-
-**Verified / Published Information**  
-Information supported by available event documentation or published sources.
-
-**First-Hand Observation**  
-Observations made from my own attendee experience at the event.
-
-**Illustrative Project Outputs**  
-Proposed schedules, budgets, KPIs, stakeholder structures, risk controls and operational processes developed to demonstrate project-management capability.
+`01-event-research/event-research.md`
 
 ---
 
-## Research Limitations
+## 👤 Author
 
-The project does not have access to the organiser's internal:
+**Marvis**
 
-- Financial records
-- Supplier contracts
-- Staff schedules
-- Internal risk registers
-- Production documentation
-- Attendance database
-- Internal project schedule
-- Post-event survey results
+MSc Project Management  
+University of Birmingham
 
-As a result, the case study does not attempt to recreate the organiser's actual internal project-management documentation.
+### Case Study Type
 
-Where information could not be independently verified, it has not been presented as confirmed internal information.
+Independent portfolio project
+
+### Direct Event Involvement
+
+**None claimed**
 
 ---
 
-## Key Assumptions
+## ⚖️ Final Disclaimer
 
-The following outputs are illustrative:
+This repository is an independent educational and professional portfolio case study.
 
-- Project schedule
-- Event budget
-- Stakeholder structure
-- RACI assignments
-- Risk ratings
-- Risk controls
-- Marketing budget
-- Supplier evaluation criteria
-- Event-day operational timings
-- KPI targets
-- Improvement actions
+It does not claim that the author planned, organised, managed, delivered or worked directly on Warehouse Worship – The Gathering 2026.
 
-These outputs demonstrate how I would structure and manage the relevant project areas rather than claiming to reproduce the organiser's actual processes.
+Where information was publicly available, it has been used as evidence.
 
----
+Where information came from first-hand observation, it has been identified as such.
 
-## Portfolio Structure
+Where project-management outputs were not publicly available, illustrative assumptions and frameworks have been developed to demonstrate professional project-management capability.
 
-```text
-01-event-research/
-02-project-brief/
-03-work-breakdown-structure/
-04-project-schedule/
-05-budget/
-06-stakeholder-management/
-07-risk-management/
-08-event-operations/
-09-marketing/
-10-procurement/
-11-run-of-show/
-12-kpi-dashboard/
-13-lessons-learned/
+The project should therefore be understood as a **case-study simulation and portfolio demonstration**, not as official Warehouse Worship project documentation.
