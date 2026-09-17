@@ -4,18 +4,20 @@
 
 This risk register identifies potential risks associated with planning and delivering a large-scale worship event.
 
-The risks, ratings and mitigation measures below are proposed for this portfolio case study. They do not represent a record of actual incidents experienced by Warehouse Worship.
+The register demonstrates how risks could be identified, assessed, prioritised and controlled throughout the project lifecycle.
+
+The risks and scores below are **illustrative project-management assumptions** created for this portfolio case study. They do not represent Warehouse Worship's actual internal risk register or recorded incidents.
 
 ---
 
-## 2. Risk Rating Method
+## 2. Risk Assessment Methodology
 
-Risks are assessed using a 5 × 5 matrix.
+Risks are assessed using a 5 × 5 probability and impact scoring system.
 
-### Likelihood
+### Probability
 
-| Score | Likelihood |
-|---:|---|
+| Score | Probability |
+|---|---|
 | 1 | Rare |
 | 2 | Unlikely |
 | 3 | Possible |
@@ -25,171 +27,326 @@ Risks are assessed using a 5 × 5 matrix.
 ### Impact
 
 | Score | Impact |
-|---:|---|
+|---|---|
 | 1 | Insignificant |
 | 2 | Minor |
 | 3 | Moderate |
 | 4 | Major |
 | 5 | Severe |
 
-**Risk Score = Likelihood × Impact**
+### Risk Score
+
+**Risk Score = Probability × Impact**
 
 | Score | Rating |
-|---:|---|
+|---|---|
 | 1–4 | Low |
 | 5–9 | Medium |
-| 10–16 | High |
-| 17–25 | Very High |
+| 10–14 | High |
+| 15–25 | Very High |
 
 ---
 
 ## 3. Risk Register
 
-| ID | Risk | Likelihood | Impact | Score | Initial Rating | Mitigation / Control |
+| ID | Risk | Probability | Impact | Score | Rating | Proposed Mitigation |
 |---|---|---:|---:|---:|---|---|
-| R01 | Entry congestion and long queues | 4 | 4 | 16 | High | Staggered arrival messaging, sufficient entry staff, queue management and clear signage |
-| R02 | Crowd congestion inside the venue | 3 | 5 | 15 | High | Crowd monitoring, stewarding, controlled movement and clear exit routes |
-| R03 | Delayed venue opening | 3 | 4 | 12 | High | Early operational checks, supplier coordination and contingency time |
-| R04 | Artist or programme change | 3 | 3 | 9 | Medium | Maintain programme flexibility and clear communication procedures |
-| R05 | Medical incident | 3 | 5 | 15 | High | First-aid provision, medical response procedures and trained personnel |
-| R06 | Emergency evacuation | 2 | 5 | 10 | High | Emergency plan, clear exits, staff briefing and coordination with venue |
-| R07 | Major technical failure | 3 | 5 | 15 | High | Technical testing, backup equipment and on-site technical support |
-| R08 | Attendee confusion | 3 | 3 | 9 | Medium | Clear pre-event communications, signage and trained staff |
-| R09 | Transport disruption | 3 | 3 | 9 | Medium | Alternative transport information and contingency planning |
-| R10 | Prohibited items entering venue | 3 | 4 | 12 | High | Clear attendee guidance and appropriate security screening |
-| R11 | Supplier delay | 3 | 4 | 12 | High | Supplier deadlines, progress monitoring and contingency suppliers where appropriate |
-| R12 | Attendance exceeds operational capacity | 2 | 5 | 10 | High | Ticket controls, capacity monitoring and crowd-management procedures |
+| R01 | Entry congestion and long queues | 4 | 4 | 16 | Very High | Staggered arrival information, sufficient entry lanes, security planning and queue management |
+| R02 | Internal crowd congestion | 3 | 5 | 15 | Very High | Crowd monitoring, steward deployment, clear circulation routes and controlled movement |
+| R03 | Delayed event opening | 3 | 4 | 12 | High | Pre-opening checks, production schedule and readiness checklist |
+| R04 | Artist or programme changes | 3 | 3 | 9 | Medium | Confirm programme early and maintain contingency arrangements |
+| R05 | Medical incident | 3 | 5 | 15 | Very High | Medical provision, trained personnel, emergency procedures and clear access routes |
+| R06 | Evacuation or major emergency | 2 | 5 | 10 | High | Emergency planning, evacuation procedures, signage and staff briefings |
+| R07 | Technical or production failure | 3 | 4 | 12 | High | Equipment testing, technical rehearsals, backup systems and technical support |
+| R08 | Attendee confusion | 3 | 3 | 9 | Medium | Clear signage, pre-event information and trained staff |
+| R09 | Transport disruption | 3 | 3 | 9 | Medium | Transport information, alternative routes and contingency planning |
+| R10 | Prohibited items entering venue | 3 | 4 | 12 | High | Security screening, clear attendee guidance and controlled access |
+| R11 | Supplier delay | 3 | 4 | 12 | High | Supplier milestones, contractual requirements and regular progress monitoring |
+| R12 | Overcrowding | 2 | 5 | 10 | High | Capacity monitoring, controlled access and crowd-management procedures |
 
 ---
 
-## 4. Key Operational Risks
+## 4. Risk Heatmap
+
+The following heatmap provides a visual representation of the probability and impact scoring methodology.
+
+```mermaid
+quadrantChart
+    title Illustrative Risk Heatmap
+    x-axis Low Probability --> High Probability
+    y-axis Low Impact --> High Impact
+    quadrant-1 High / Very High
+    quadrant-2 High / Very High
+    quadrant-3 Low / Medium
+    quadrant-4 Medium / High
+
+    "R01 Entry congestion": [0.75, 0.75]
+    "R02 Crowd congestion": [0.55, 0.90]
+    "R03 Delayed opening": [0.55, 0.70]
+    "R04 Artist changes": [0.55, 0.45]
+    "R05 Medical incident": [0.55, 0.90]
+    "R06 Emergency": [0.30, 0.90]
+    "R07 Technical failure": [0.55, 0.70]
+    "R08 Attendee confusion": [0.55, 0.45]
+    "R09 Transport disruption": [0.55, 0.45]
+    "R10 Prohibited items": [0.55, 0.70]
+    "R11 Supplier delay": [0.55, 0.70]
+    "R12 Overcrowding": [0.30, 0.90]
+```
+
+> **Heatmap note:** The visual positions are illustrative representations of the probability and impact assessments shown in the risk register. They are not based on Warehouse Worship's actual internal risk data.
+
+---
+
+## 5. Highest-Priority Risks
 
 ### R01 – Entry Congestion
 
-Large events can experience significant queues during peak arrival periods.
-
-For this case study, entry congestion is particularly relevant because first-hand attendee observation identified a lengthy queue before entry.
+Entry congestion is a significant operational consideration for a large-scale event.
 
 Potential controls include:
 
-- Clear arrival instructions
-- Adequate entrance staffing
-- Effective queue barriers
-- Ticket scanning capacity
-- Security screening capacity
+- Clear pre-event arrival information
+- Multiple entry points where permitted
+- Queue-management systems
+- Sufficient security and ticket-scanning resources
 - Clear signage
-- Monitoring of queue length
-- Escalation procedures if congestion increases
-
-The objective would be to maintain safe and orderly attendee movement while minimising unnecessary waiting.
+- Staff positioned at key points
 
 ---
 
-### R02 – Crowd Congestion
+### R02 – Internal Crowd Congestion
 
-Large audience numbers can create crowd-management challenges, particularly around entrances, central areas, barriers and movement between seated and standing areas.
+Large attendee numbers can create pressure around entrances, circulation areas, seating and standing areas.
 
-Controls could include:
+Potential controls include:
 
 - Steward deployment
 - Crowd monitoring
-- Clearly defined circulation routes
-- Maintaining emergency access routes
-- Controlled movement where required
-- Communication between security, venue and event teams
+- Controlled movement
+- Clear circulation routes
+- Communication between security and operations teams
 
 ---
 
-### R07 – Technical Failure
+### R05 – Medical Incident
 
-The event relies heavily on audio, lighting, video and production systems.
+A medical incident could require immediate intervention and access for emergency personnel.
 
 Potential controls include:
 
-- Pre-event testing
-- Technical rehearsals
-- Backup equipment
-- Experienced technical personnel
-- Defined escalation procedures
-- Supplier response plans
+- Dedicated medical provision
+- Trained first-aid personnel
+- Emergency access routes
+- Clear incident procedures
+- Communication protocols
 
 ---
 
-## 5. Risk Ownership
+### R06 – Emergency / Evacuation
 
-Risk ownership should be assigned to the person or team with the appropriate authority and knowledge to monitor and manage each risk.
+A major emergency could require evacuation or other emergency action.
 
-Example ownership structure:
+Potential controls include:
 
-| Risk Area | Proposed Owner |
-|---|---|
-| Venue | Venue / Operations Lead |
-| Crowd management | Security Lead |
-| Medical | Medical / Safety Lead |
-| Production | Production Lead |
-| Programme | Programme Lead |
-| Marketing communications | Marketing Lead |
-| Transport | Logistics Lead |
-| Suppliers | Project / Procurement Lead |
-| Overall project risk | Project Lead |
+- Emergency response plans
+- Clearly identified exits
+- Staff briefings
+- Emergency communication procedures
+- Coordination with relevant venue and emergency personnel
 
 ---
 
-## 6. Risk Monitoring
+## 6. Risk Response Strategies
 
-Risks should be reviewed regularly throughout the project lifecycle.
-
-A risk review should consider:
-
-- Whether likelihood has changed
-- Whether impact has changed
-- Whether mitigation actions are complete
-- Whether new risks have emerged
-- Whether contingency arrangements remain appropriate
-- Whether risks need escalation
-
-The frequency of monitoring should increase as the event approaches.
-
----
-
-## 7. Event-Day Escalation
-
-On event day, significant risks should be escalated through an agreed operational chain.
-
-Example:
-
-**Staff / Steward → Team Leader → Operations Lead → Event Lead → Emergency Services / Venue Management where required**
-
-The escalation route should be communicated during staff and supplier briefings before doors open.
-
----
-
-## 8. Risk Response Strategies
-
-Depending on the nature of a risk, the project team could use four main response strategies:
+The project could use four main risk response strategies:
 
 ### Avoid
 
-Change the project approach to remove the risk where practical.
+Remove the activity or condition creating the risk where practical.
 
 ### Reduce
 
-Introduce controls that reduce the likelihood or impact.
+Implement controls that reduce either the probability or impact of the risk.
 
 ### Transfer
 
-Transfer responsibility or financial exposure through appropriate contracts, insurance or specialist suppliers.
+Transfer some responsibility or financial exposure to another party through contractual arrangements or insurance.
 
 ### Accept
 
-Accept the risk where the potential impact is manageable and mitigation would be disproportionate.
+Accept the risk where the cost of further mitigation is disproportionate to the potential impact, while continuing to monitor it.
 
 ---
 
-## 9. Risk Register Assumption
+## 7. Risk Ownership
 
-This register is an **illustrative project-management model developed for portfolio purposes**.
+Each significant risk should have an assigned owner responsible for monitoring and managing the risk.
 
-The risk scores, proposed controls and ownership assignments are not presented as Warehouse Worship's actual internal risk assessment.
+| Risk Area | Proposed Risk Owner |
+|---|---|
+| Entry and crowd congestion | Event Operations / Security Lead |
+| Medical incidents | Safety / Medical Lead |
+| Emergency response | Event Safety Lead |
+| Technical failure | Production Lead |
+| Artist changes | Programme / Artist Lead |
+| Supplier delays | Procurement / Project Lead |
+| Transport disruption | Logistics Lead |
+| Attendee communication | Marketing / Attendee Experience Lead |
 
-The purpose is to demonstrate how I would identify, assess, monitor and mitigate risks within a large-scale event project.#
+These ownership assignments are proposed for the portfolio case study.
+
+---
+
+## 8. Risk Monitoring
+
+Risk monitoring should continue throughout the project rather than only during the final preparation stage.
+
+Potential review points include:
+
+- Project planning meetings
+- Supplier meetings
+- Production reviews
+- Security planning meetings
+- Venue coordination
+- Final readiness checks
+- Event-day briefings
+- Post-event debrief
+
+---
+
+## 9. Event-Day Risk Controls
+
+On event day, risk management should focus particularly on:
+
+- Entry queues
+- Ticket scanning
+- Security screening
+- Crowd movement
+- Emergency exits
+- Medical response
+- Technical systems
+- Staff communication
+- Attendee information
+- Capacity monitoring
+
+Any significant incident should be recorded and escalated through the agreed operational structure.
+
+---
+
+## 10. Risk Escalation Process
+
+A proposed risk escalation process is:
+
+**Risk / Incident Identified**
+
+↓
+
+**Immediate Assessment**
+
+↓
+
+**Responsible Team Responds**
+
+↓
+
+**Escalate if Required**
+
+↓
+
+**Project / Event Leadership Decision**
+
+↓
+
+**Corrective Action**
+
+↓
+
+**Monitor Outcome**
+
+↓
+
+**Close and Record Lesson Learned**
+
+---
+
+## 11. Risk Review
+
+Risk scores should be reviewed when:
+
+- New information becomes available
+- Project scope changes
+- Suppliers change
+- Programme changes
+- Venue arrangements change
+- Significant incidents occur
+- The event approaches
+- Event-day conditions change
+
+A risk that was initially assessed as medium could become high or very high if probability or impact increases.
+
+---
+
+## 12. Key Risk Indicators
+
+Potential indicators that could signal increasing risk include:
+
+| Indicator | Potential Warning Sign |
+|---|---|
+| Queue length | Increasing waiting times |
+| Entry throughput | Scanning rate below expected level |
+| Crowd density | Increasing concentration of attendees |
+| Staffing | Unfilled operational positions |
+| Supplier progress | Missed milestones |
+| Technical testing | Repeated equipment failures |
+| Transport | Significant delays |
+| Emergency access | Obstructed or restricted routes |
+| Programme | Increasing schedule delays |
+
+---
+
+## 13. Risk Assumptions and Limitations
+
+The probability, impact and risk scores in this document are illustrative.
+
+They are intended to demonstrate the application of a structured risk-management methodology to a large-scale event.
+
+They do not represent:
+
+- Actual Warehouse Worship risk scores
+- Actual recorded incidents
+- Actual internal risk owners
+- Actual security assessments
+- Actual emergency planning documentation
+- Actual venue risk assessments
+
+---
+
+## 14. Portfolio Application
+
+This risk register demonstrates:
+
+- Risk identification
+- Probability and impact assessment
+- Risk prioritisation
+- Mitigation planning
+- Risk ownership
+- Monitoring
+- Escalation
+- Event-day risk control
+
+It demonstrates how a project manager could use a structured risk-management process to support safer and more controlled event delivery.
+
+---
+
+## 15. Conclusion
+
+Risk management is a continuous project activity that should begin during project planning and continue through event delivery and post-event evaluation.
+
+For a large-scale event, particular attention should be given to crowd management, entry operations, medical provision, emergency response, technical reliability, supplier performance and attendee communication.
+
+The proposed risk register provides a framework for monitoring these areas and assigning appropriate mitigation measures.
+
+---
+
+> **Portfolio disclaimer:** This document is an independent project-management case study based on publicly available information and first-hand attendee observation. The risks, probability scores, impact scores, controls, owners and heatmap positions are illustrative portfolio outputs and do not claim to reproduce Warehouse Worship's actual internal risk-management documentation.
