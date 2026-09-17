@@ -2,298 +2,563 @@
 
 ## 1. Purpose
 
-This operations plan sets out a proposed framework for delivering a safe, organised and positive attendee experience at a large-scale worship event.
+This event operations plan demonstrates how the operational requirements of a large-scale worship event could be structured and coordinated.
 
-The plan is an illustrative project-management model developed for this portfolio case study. It does not claim to represent Warehouse Worship's actual internal operating procedures.
+The plan considers venue preparation, staffing, security, attendee arrival, crowd management, production, event delivery and close-down.
 
----
-
-## 2. Event-Day Objectives
-
-The key operational objectives are to:
-
-- Provide a safe and welcoming environment for attendees
-- Manage entry and exit efficiently
-- Maintain effective crowd movement
-- Deliver the programme according to the agreed schedule
-- Coordinate staff, volunteers, suppliers and venue teams
-- Maintain clear communication throughout the event
-- Respond effectively to incidents and emergencies
-- Protect the attendee experience
-- Complete an orderly venue clear-down
+This is an **illustrative project-management plan** created for portfolio purposes and does not claim to reproduce Warehouse Worship's actual internal operational procedures.
 
 ---
 
-## 3. Confirmed Public Event Timings
+## 2. Event Context
 
-Based on available event information:
+| Item | Detail |
+|---|---|
+| Event | The Gathering 2026 |
+| Organiser | Warehouse Worship |
+| Venue | Manchester Central Convention Complex |
+| Event Date | 8 August 2026 |
+| Doors | 4:30 PM |
+| Event | 5:00 PM – 11:00 PM |
+| Case Study Type | Independent portfolio analysis |
 
-| Activity | Time |
-|---|---:|
-| Doors open | 16:30 |
-| Event begins | 17:00 |
-| Event closes | 23:00 |
-
-Other operational timings in this plan are proposed planning assumptions rather than confirmed organiser timings.
-
----
-
-## 4. Proposed Event-Day Operational Timeline
-
-| Time | Activity | Responsible Area |
-|---|---|---|
-| 10:00 | Venue access and initial setup | Operations / Venue |
-| 10:30 | Production setup continues | Production |
-| 12:00 | Technical testing | Production |
-| 13:00 | Programme / artist preparation | Programme |
-| 14:00 | Operational walkthrough | Operations / Venue |
-| 15:00 | Final safety and venue checks | Safety / Venue |
-| 15:30 | Staff and volunteer briefing | Operations |
-| 16:00 | Security and entrance teams in position | Security |
-| 16:30 | Doors open | Front of House |
-| 17:00 | Event begins | Event Team |
-| 17:00–23:00 | Programme delivery | Programme / Production |
-| 23:00 | Event closes | Event Team |
-| 23:00 onwards | Controlled attendee exit and clear-down | Operations / Venue |
-
-The setup, briefing and clear-down times above are proposed assumptions created to demonstrate operational planning.
+The ticket information reviewed for this case study confirms the event date and the 5:00 PM start time. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 5. Venue Operations
+## 3. Operational Objectives
 
-Venue operations should cover:
+The proposed operational objectives are to:
 
-- Access and loading arrangements
-- Audience entry points
-- Seating and standing areas
-- Emergency exits
-- Toilets and welfare facilities
-- Merchandise areas
-- Staff areas
-- Artist / backstage areas
-- Production areas
-- Signage
-- Cleaning and waste management
-- Accessibility arrangements
-
-A final venue walkthrough should be completed before doors open.
+1. Provide a safe and organised attendee journey.
+2. Support efficient venue access and entry.
+3. Maintain effective crowd management.
+4. Coordinate staff, volunteers and suppliers.
+5. Support reliable technical and production delivery.
+6. Maintain clear communication between operational teams.
+7. Ensure emergency arrangements are understood.
+8. Support the planned programme.
+9. Provide clear attendee information.
+10. Complete event close-down efficiently.
 
 ---
 
-## 6. Attendee Entry Process
+## 4. Operational Workstreams
 
-A proposed attendee journey is:
+The event operation can be divided into the following workstreams:
 
-**Arrival → Queue Management → Security Screening → Ticket Scan → Wristband / Admission Check → Direction to Venue Area → Seating / Standing Area**
+- Venue management
+- Production and technical
+- Security and crowd management
+- Ticketing and entry
+- Staffing and volunteers
+- Medical and emergency response
+- Attendee experience
+- Transport and logistics
+- Catering and hospitality
+- Merchandise
+- Cleaning and waste
+- Event close-down
 
-Operational controls should include:
+---
 
-- Clearly marked queues
-- Adequate staff at entry points
-- Ticket scanning equipment
+## 5. Illustrative Event-Day Timeline
+
+| Time | Operational Activity |
+|---|---|
+| 10:00 | Venue access and initial operational setup |
+| 10:30 | Production and technical setup |
+| 12:00 | Supplier and team coordination |
+| 13:00 | Production checks and rehearsals |
+| 14:30 | Venue operational inspection |
+| 15:00 | Staff and volunteer briefing |
+| 15:30 | Final safety and security checks |
+| 16:00 | Security and entry teams positioned |
+| 16:30 | Doors open |
+| 17:00 | Event begins |
+| 17:00–23:00 | Programme and event operations |
+| 23:00 | Event closes |
+| 23:00 onwards | Attendee departure and venue close-down |
+
+> **Timeline note:** The publicly communicated event timings were doors at 4:30 PM and event operation from 5:00 PM to 11:00 PM. The setup, briefing and preparation times above are illustrative planning assumptions.
+
+---
+
+## 6. Attendee Arrival and Entry
+
+Entry is a critical operational stage because large numbers of attendees may arrive within a relatively short period.
+
+The proposed entry process is:
+
+**Arrival**
+
+↓
+
+**Queue Formation**
+
+↓
+
+**Security Screening**
+
+↓
+
+**Ticket Scan**
+
+↓
+
+**Wristband / Access Control**
+
+↓
+
+**Directional Signage**
+
+↓
+
+**Venue Entry**
+
+↓
+
+**Seating / Standing Area**
+
+The user's first-hand observation of the event indicated a significant queue on arrival, with an entry process involving queuing, ticket scanning, wristband allocation and security before entering the venue.
+
+This observation is used as an attendee-experience input for identifying potential operational improvements.
+
+---
+
+## 7. Queue Management
+
+Potential queue-management measures include:
+
+- Clearly defined queue lanes
+- Visible signage
+- Trained queue-management staff
+- Separate operational routes where appropriate
+- Adequate ticket-scanning capacity
+- Security screening capacity
+- Regular communication with waiting attendees
+- Monitoring of queue length
+- Escalation when waiting times increase significantly
+
+The objective should be to maintain safe and orderly movement while minimising unnecessary waiting.
+
+---
+
+## 8. Security and Crowd Management
+
+Security operations should support:
+
+- Controlled venue access
 - Security screening
-- Clear signage
-- Accessible routes
-- Communication with attendees during periods of high demand
+- Crowd monitoring
+- Prohibited-item control
+- Emergency response
+- Protection of emergency routes
+- Crowd-flow management
+- Incident reporting
 
-First-hand attendee observation identified a significant queue during arrival, making entry capacity and queue management an important operational consideration for this case study.
-
----
-
-## 7. Crowd Management
-
-Crowd management should focus on maintaining safe movement throughout the venue.
-
-Key measures could include:
-
-- Appropriate steward deployment
-- Monitoring of crowd density
-- Clear circulation routes
-- Maintaining emergency access routes
-- Managing movement near the stage
-- Monitoring entrances and exits
-- Rapid escalation of developing crowd-management issues
-- Coordination between venue, security and event teams
-
-Where seating and standing areas are combined, staff should monitor movement between these areas and ensure that circulation routes remain clear.
+Stewards should be positioned at strategic locations to provide information and identify developing crowd-management issues.
 
 ---
 
-## 8. Security Operations
+## 9. Crowd Flow
 
-Security planning should include:
+Crowd movement should be considered across three main stages:
 
-- Entrance screening
-- Prohibited-item controls
-- Monitoring of crowd behaviour
-- Incident response
-- Liaison with venue management
-- Emergency escalation
-- Coordination with medical teams
-- Monitoring of restricted areas
+### Arrival
 
-Attendee communications should clearly identify prohibited items and relevant venue requirements before arrival.
+Attendees move from transport locations towards the venue and form entry queues.
+
+### Internal Movement
+
+Attendees move between:
+
+- Entrance areas
+- Seating
+- Standing areas
+- Toilets
+- Merchandise
+- Other venue facilities
+
+### Departure
+
+Attendees leave the venue and move towards transport connections or onward destinations.
+
+Clear routes and appropriate staffing should be maintained throughout each stage.
 
 ---
 
-## 9. Staff and Volunteer Management
+## 10. Signage and Wayfinding
 
-Staff and volunteers should receive a structured briefing before doors open.
+Signage should help attendees locate:
 
-The briefing should cover:
+- Entrances
+- Seating areas
+- Standing areas
+- Toilets
+- Merchandise
+- Medical support
+- Emergency exits
+- Information points
+- Transport routes
 
-- Individual roles
-- Reporting lines
+Signs should be positioned where decisions need to be made rather than only at the destination.
+
+The user's first-hand observation indicated that signage at the event was generally easy to follow.
+
+---
+
+## 11. Staffing and Volunteer Deployment
+
+An illustrative staffing structure could include:
+
+| Team | Main Responsibility |
+|---|---|
+| Event Management | Overall event coordination |
+| Venue Team | Venue operations and facilities |
+| Production Team | Technical delivery |
+| Security | Security and crowd management |
+| Stewards | Attendee assistance and crowd support |
+| Ticketing Team | Ticket scanning and entry |
+| Medical Team | First aid and medical response |
+| Logistics Team | Transport and operational logistics |
+| Hospitality Team | Artist and stakeholder support |
+| Cleaning Team | Venue cleanliness and waste |
+| Merchandise Team | Merchandise operations |
+
+---
+
+## 12. Staff Briefing
+
+A staff briefing should take place before doors open.
+
+Key briefing topics should include:
+
+- Event objectives
+- Programme overview
+- Individual responsibilities
 - Venue layout
 - Emergency procedures
-- Crowd-management responsibilities
-- Attendee assistance
-- Accessibility requirements
-- Incident reporting
+- Crowd-management procedures
 - Communication channels
-- Break arrangements
 - Escalation procedures
+- Attendee information
+- Lost property
+- Medical response
+- Evacuation procedures
 
-A simple principle should be used:
-
-**If a staff member cannot resolve an issue safely, escalate it rather than attempting to manage it alone.**
+Staff should understand who they report to and how issues should be escalated.
 
 ---
 
-## 10. Production Operations
+## 13. Production Operations
 
-Production operations should coordinate:
+Production operations may include:
 
-- Stage
-- Audio
+- Stage setup
+- Audio systems
 - Lighting
 - Screens
-- Video
-- Recording
-- Power requirements
+- Recording equipment
 - Technical rehearsals
 - Artist changeovers
-- Technical support
+- Show calling
+- Technical monitoring
 
-A technical checklist should be completed before doors open.
-
-Critical systems should have appropriate contingency arrangements where practical.
-
----
-
-## 11. Communication Structure
-
-Clear communication is essential during event delivery.
-
-A proposed communication structure is:
-
-**Event Lead**  
-↓  
-**Operations / Production / Security Leads**  
-↓  
-**Team Leaders**  
-↓  
-**Staff and Volunteers**
-
-Communication should be concise, accurate and directed through agreed channels.
-
-Significant incidents should be escalated immediately through the appropriate operational lead.
+Production teams should work closely with programme management and venue operations.
 
 ---
 
-## 12. Attendee Information
+## 14. Programme Coordination
 
-Pre-event communications should provide attendees with:
+The published event programme included multiple worship, praise and performance segments.
 
-- Event date
-- Venue location
-- Door opening time
-- Event start and finish times
-- Ticket requirements
-- Seating information
-- Transport information
-- Bag restrictions
-- Prohibited items
-- Accessibility information
-- General arrival guidance
+The programme structure described in published coverage included opening worship, contemporary and praise sets, spoken ministry, additional worship segments and a closing performance. :contentReference[oaicite:1]{index=1}
 
-Clear pre-event information can reduce confusion at the venue and improve the arrival experience.
+Operational planning should account for:
+
+- Artist arrival
+- Artist preparation
+- Sound checks
+- Stage changeovers
+- Technical requirements
+- Programme transitions
+- Timing
+- Communication with production
 
 ---
 
-## 13. Medical and Emergency Operations
+## 15. Medical and Emergency Operations
 
-The event should have an appropriate medical and emergency response plan.
-
-This should include:
+Emergency arrangements should include:
 
 - First-aid provision
-- Emergency access routes
-- Incident reporting
-- Emergency contact arrangements
+- Medical response procedures
+- Emergency communication
+- Clear emergency access routes
+- Staff awareness
 - Evacuation procedures
-- Communication procedures
-- Venue emergency protocols
-- Liaison with emergency services where required
+- Incident recording
+- Coordination with venue emergency arrangements
 
-Staff should know how to report an incident and who to contact.
+Emergency routes should remain unobstructed throughout the event.
 
 ---
 
-## 14. Event Close and Exit
+## 16. Attendee Experience
 
-At event close, the operations team should coordinate:
+The attendee journey should be considered from arrival through departure.
 
-- Controlled audience exit
-- Monitoring of crowd movement
-- Clear access to exits
-- Communication with attendees
-- Transport information where required
-- Lost-property procedures
+### Key stages
+
+**Pre-arrival → Transport → Queue → Security → Ticket Scan → Entry → Event Experience → Facilities → Departure**
+
+Potential attendee-experience measures include:
+
+- Waiting time
+- Ease of navigation
+- Staff helpfulness
+- Signage clarity
+- Venue facilities
+- Programme experience
+- Safety perception
+- Ease of departure
+
+---
+
+## 17. Transport and Logistics
+
+Transport planning should consider:
+
+- Public transport
+- Private vehicles
+- Coaches
+- Taxi / ride-hailing services
+- Pedestrian routes
+- Staff transport
+- Artist transport
+- Supplier access
+
+Transport information should be communicated before the event.
+
+The wider Warehouse Worship event model also included dedicated coach transport from several UK locations, demonstrating the importance of transport planning for attendees travelling to the event.
+
+---
+
+## 18. Merchandise
+
+Merchandise operations should consider:
+
+- Stock delivery
+- Storage
+- Display
+- Staffing
+- Queue management
+- Payment systems
+- Stock monitoring
+- End-of-event reconciliation
+
+Merchandise areas should be positioned so they do not obstruct key circulation routes.
+
+---
+
+## 19. Cleaning and Waste
+
+Cleaning operations should cover:
+
+- Toilets
+- Public areas
+- Seating areas
+- Standing areas
+- Back-of-house areas
+- Waste collection
+- Post-event cleaning
+
+Waste should be monitored during the event rather than relying entirely on post-event cleaning.
+
+---
+
+## 20. Communication Structure
+
+A proposed operational communication structure is:
+
+**Event Leadership**
+
+↓
+
+**Operations Lead**
+
+↓
+
+**Workstream Leads**
+
+↓
+
+**Operational Staff / Volunteers**
+
+Communication should flow both ways so that issues identified at operational level can be escalated quickly.
+
+---
+
+## 21. Incident Management
+
+A proposed incident-management process is:
+
+**Incident Identified**
+
+↓
+
+**Assess Severity**
+
+↓
+
+**Protect Attendees / Staff**
+
+↓
+
+**Notify Responsible Lead**
+
+↓
+
+**Escalate if Required**
+
+↓
+
+**Implement Response**
+
+↓
+
+**Record Incident**
+
+↓
+
+**Review and Learn**
+
+---
+
+## 22. Event Close-Down
+
+Following the end of the event, operations should include:
+
+- Controlled attendee departure
+- Crowd monitoring
+- Equipment shutdown
+- Supplier collection
+- Waste removal
 - Venue inspection
-- Supplier clear-down
+- Lost-property management
+- Financial reconciliation
+- Incident reporting
+- Staff debrief
 
-The venue should not be considered clear until the relevant operational and venue teams have confirmed this.
-
----
-
-## 15. Post-Event Operations
-
-Following the event, the project team should:
-
-1. Complete venue handover.
-2. Confirm supplier departures.
-3. Record incidents and operational issues.
-4. Review attendee feedback.
-5. Reconcile outstanding operational costs.
-6. Hold a project debrief.
-7. Record lessons learned.
-8. Identify improvements for future events.
+The close-down process should be planned before the event begins.
 
 ---
 
-## 16. Operational Performance Measures
+## 23. Operational Performance Measures
 
-The following proposed measures could be used to assess event operations:
+Potential operational KPIs include:
 
 | KPI | Proposed Target |
 |---|---:|
 | Average entry waiting time | <30 minutes |
+| Ticket scan success | ≥99% |
 | Critical safety incidents | 0 |
 | Blocked emergency exits | 0 |
-| Ticket scanning success | ≥99% |
-| Staff briefing completion | 100% |
 | Programme delivered on schedule | ≥95% |
 | Major technical failures | 0 |
+| Staff briefing completion | 100% |
 | Attendee satisfaction | ≥85% |
 
-These are proposed portfolio targets and are not reported results from the actual event.
+These are proposed portfolio targets and are not actual event performance results.
 
 ---
 
-## 17. Operational Assumption
+## 24. Operational Improvement Opportunities
 
-This document represents an **illustrative event operations plan** developed to demonstrate project-management capability.
+Based on the attendee perspective used in this case study, potential improvement areas include:
 
-It combines confirmed public event information with proposed operational assumptions and first-hand attendee observations. It should not be interpreted as Warehouse Worship's actual internal event operations manual.
+### Entry Capacity
+
+Review the relationship between expected arrival volumes, ticket scanning capacity and security throughput.
+
+### Queue Communication
+
+Provide attendees with clear information about expected entry arrangements before arrival.
+
+### Crowd Flow
+
+Monitor internal crowd movement and maintain clear circulation routes.
+
+### Staff Positioning
+
+Position staff at decision points where attendees may require information or assistance.
+
+### Departure Planning
+
+Provide clear information about transport options and exit routes.
+
+---
+
+## 25. Operational Assumptions
+
+This plan assumes:
+
+- A large attendee audience
+- Professional venue management
+- Dedicated security provision
+- Technical production teams
+- Event-day stewards and volunteers
+- Medical provision
+- Controlled venue access
+- Pre-event staff briefings
+- Formal emergency procedures
+
+These are planning assumptions rather than verified internal Warehouse Worship procedures.
+
+---
+
+## 26. Operational Limitations
+
+The case study does not have access to:
+
+- Warehouse Worship's internal operations manual
+- Internal staffing plans
+- Security deployment plans
+- Venue operations documentation
+- Internal production schedules
+- Emergency response documentation
+- Supplier contracts
+- Internal transport plans
+
+Therefore, the operational structure presented here is a professional illustrative model rather than a reconstruction of the organiser's actual operating procedures.
+
+---
+
+## 27. Portfolio Application
+
+This operations plan demonstrates practical application of:
+
+- Event operations management
+- Crowd management
+- Stakeholder coordination
+- Attendee journey planning
+- Risk management
+- Staff deployment
+- Logistics planning
+- Incident management
+- Operational KPI development
+
+---
+
+## 28. Conclusion
+
+Effective event operations require multiple workstreams to operate together while maintaining safety, communication and attendee experience.
+
+The proposed operational framework provides a structured approach to managing arrival, entry, crowd movement, production, staffing, safety, facilities, communication and close-down.
+
+The plan should be considered alongside the project's risk register, stakeholder plan, project schedule, budget and event-day run of show.
+
+---
+
+> **Portfolio disclaimer:** This document is an independent project-management case study based on publicly available information and first-hand attendee observation. It does not claim direct involvement in the planning, management or delivery of Warehouse Worship – The Gathering 2026. Operational timings, staffing structures, procedures, KPIs and controls are illustrative portfolio outputs unless explicitly identified as published or first-hand observations.
